@@ -1,401 +1,1001 @@
 user_score,title,mal_score,genres,popularity
-6,Ah! My Goddess,7.31,"['Comedy', 'Romance', 'Seinen', 'Supernatural']",1526
-6,Ah! My Goddess: Flights of Fancy,7.54,"['Comedy', 'Harem', 'Romance', 'Seinen', 'Supernatural']",2778
-6,Accel World,7.21,"['Action', 'Romance', 'School', 'Sci-Fi', 'Video Game']",292
+6,,7.24,"['Drama', 'Romance', 'School']",4270
+5,009-1,6.21,"['Action', 'Mecha', 'Sci-Fi', 'Seinen']",4849
+5,07-Ghost,7.18,"['Action', 'Fantasy', 'Josei', 'Military', 'Mythology']",1189
+5,I'm Standing on a Million Lives,6.51,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Isekai', 'Shounen']",821
+5,I’m Standing on a Million Lives Season 2,6.8,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Isekai', 'Shounen']",1430
+4,11eyes,6.04,"['Action', 'Ecchi', 'Harem', 'Super Power', 'Supernatural']",1058
+5,,6.4,"['Romance', 'School', 'Shoujo']",3900
+5,,6.58,"['Romance', 'School', 'Shoujo']",5274
+5,16bit Sensation: Another Layer,6.9,"['Adult Cast', 'Comedy', 'Otaku Culture', 'Sci-Fi', 'Time Travel', 'Workplace']",3086
+4,18if,6.11,"['Mystery', 'Supernatural']",3030
+4,2.43: Seiin High School Boys Volleyball Team,6.14,"['Drama', 'School', 'Sports', 'Team Sports']",1997
+8,22/7,6.79,"['Drama', 'Idols (Female)', 'Music']",3335
+2,"25-Year-Old High School Girl, I Wouldn’t Do This with a Kid",5.6,"['Hentai', 'Josei', 'School']",3710
+9,March Comes In Like a Lion,8.37,"['Childcare', 'Drama', 'Seinen', 'Strategy Game']",311
+8,March Comes In Like a Lion 2nd Season,8.91,"['Childcare', 'Drama', 'Seinen', 'Strategy Game']",586
+8,March comes in like a lion meets Bump of Chicken,7.06,"['Drama', 'Music', 'Seinen']",5681
+5,March Comes in Like a Lion: Omnibus Special Episode,6.7,"['Childcare', 'Drama', 'Seinen', 'Strategy Game']",5449
+5,Love Live! School Idol Project in 30 Minutes,7.1,"['Idols (Female)', 'Music', 'School', 'Slice of Life']",6632
+2,A Thirty-Year Old's Health and Physical Education,6.62,"['Adult Cast', 'Comedy', 'Ecchi', 'Parody', 'Romance']",2854
+5,Real Girl,6.86,"['Otaku Culture', 'Romance', 'School', 'Shoujo']",708
+6,Real Girl Season 2,7.67,"['Otaku Culture', 'Romance', 'School', 'Shoujo']",1275
+5,The Little Lies We All Tell,7.14,"['Comedy', 'Gag Humor', 'School', 'Sci-Fi', 'Shounen', 'Super Power']",3748
+8,The Quintessential Quintuplets,7.64,"['Comedy', 'Harem', 'Romance', 'School', 'Shounen']",171
+7,The Quintessential Quintuplets 2,8.02,"['Comedy', 'Harem', 'Romance', 'School', 'Shounen']",278
+3,,5.5,['Music'],9140
+9,86 Eighty-Six,8.32,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi']",226
+8,86 Eighty-Six Part 2,8.71,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi']",424
+5,86 Eighty-Six: Special Edition - The Poppies Bloom Red on the Battlefield,6.93,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi']",3073
+8,91 Days,7.83,"['Action', 'Adult Cast', 'Drama', 'Historical', 'Organized Crime', 'Suspense']",279
+5,91 Days: Brief Candle,6.55,"['Action', 'Drama', 'Historical', 'Organized Crime', 'Suspense']",3926
+6,91 Days: Shoal of Time/All Our Yesterdays/Tomorrow and Tomorrow,6.9,"['Action', 'Adult Cast', 'Drama', 'Historical', 'Organized Crime', 'Suspense']",3044
+6,A-Channel,6.93,"['CGDCT', 'Comedy', 'School']",2172
+3,,7.09,"['CGDCT', 'Comedy', 'School']",4804
+3,A-Channel: +A-Channel,6.95,"['CGDCT', 'Comedy', 'School', 'Slice of Life']",5099
+6,,6.53,"['Action', 'Sci-Fi']",1946
+4,A3! Season Autumn & Winter,7.25,"['Drama', 'Performing Arts']",4760
+4,A3! Season Spring & Summer,7.1,"['Drama', 'Performing Arts']",3876
+6,Oh! My Goddess,7.28,"['Comedy', 'Romance', 'Seinen', 'Supernatural']",3099
+7,Ah! My Goddess,7.31,"['Comedy', 'Romance', 'Seinen', 'Supernatural']",1526
+7,Ah! My Goddess: Flights of Fancy,7.54,"['Comedy', 'Harem', 'Romance', 'Seinen', 'Supernatural']",2778
+5,Magical☆Shopping Arcade Abenobashi,7.22,"['Award Winning', 'Comedy', 'Ecchi', 'Fantasy', 'Isekai', 'Parody']",2289
+3,Absolute Duo,6.41,"['Action', 'Ecchi', 'Fantasy', 'Harem', 'Romance', 'School', 'Urban Fantasy']",408
+7,ACCA: 13-Territory Inspection Dept.,7.66,"['Adult Cast', 'Detective', 'Drama', 'Mystery', 'Seinen']",1471
+7,ACCA: 13-Territory Inspection Department - Regards,7.16,"['Adult Cast', 'Detective', 'Drama', 'Mystery', 'Seinen']",5310
+8,Accel World,7.21,"['Action', 'Romance', 'School', 'Sci-Fi', 'Video Game']",292
+7,,7.08,"['Action', 'Romance', 'School', 'Sci-Fi', 'Video Game']",1983
+5,,6.62,"['Action', 'Romance', 'School', 'Sci-Fi', 'Video Game']",2633
+6,Place to Place,7.47,"['Comedy', 'Gag Humor', 'Romance', 'School']",778
+4,,7.46,"['Comedy', 'Gag Humor', 'Romance', 'School']",2917
+4,Acro Trip,6.74,"['Comedy', 'Mahou Shoujo', 'Parody', 'Shoujo']",5139
+4,Action Heroine Cheer Fruits,6.52,"['Comedy', 'School', 'Slice of Life']",5676
+5,Active Raid,5.85,"['Action', 'Adult Cast', 'Mecha', 'Sci-Fi']",2988
+4,Active Raid Second,6.32,"['Action', 'Adult Cast', 'Mecha', 'Sci-Fi']",4969
+4,,6.3,"['Music', 'School']",5175
+9,Adachi and Shimamura,7.09,"['Girls Love', 'School']",1265
 6,Afro Samurai,7.37,"['Action', 'Adventure', 'Gore', 'Samurai']",638
-6,Ai Yori Aoshi,7.1,"['Comedy', 'Drama', 'Harem', 'Romance', 'Seinen']",2021
-6,Ai Yori Aoshi: Enishi,7.11,"['Comedy', 'Drama', 'Harem', 'Romance', 'Seinen']",2972
-6,Ajin: Demi-Human,7.38,"['Action', 'Gore', 'Horror', 'Mystery', 'Seinen', 'Supernatural']",381
-4,Akame ga Kill!,7.47,"['Action', 'Fantasy', 'Gore', 'Shounen']",30
-0,Yona of the Dawn,8.03,"['Adventure', 'Fantasy', 'Romance', 'Shoujo']",210
+5,Afro Samurai the Movie,7.54,"['Action', 'Adventure', 'Gore', 'Samurai']",2784
+7,Afro Samurai: Resurrection,7.34,"['Action', 'Adventure', 'Gore', 'Samurai']",2072
+3,Aguu: Genius Dolls,5.38,"['Action', 'Drama', 'Supernatural']",7600
+8,Aharen-san wa Hakarenai,7.28,"['Comedy', 'Romance', 'School', 'Shounen']",706
+7,,7.26,"['School', 'Shounen', 'Sports', 'Team Sports']",1240
+3,AHO-GIRL,6.72,"['Comedy', 'Gag Humor', 'School', 'Shounen']",462
+5,The Gene of AI,6.53,"['Drama', 'Psychological', 'Sci-Fi', 'Shounen', 'Suspense']",3381
+5,,6.14,"['Comedy', 'Sci-Fi']",3857
+7,Ai Yori Aoshi,7.1,"['Comedy', 'Drama', 'Harem', 'Romance', 'Seinen']",2021
+7,Ai Yori Aoshi: Enishi,7.11,"['Comedy', 'Drama', 'Harem', 'Romance', 'Seinen']",2972
+8,Air,7.27,"['Drama', 'Romance', 'Supernatural']",856
+5,Air Gear: Special Trick,7.25,"['Comedy', 'Delinquents', 'Ecchi', 'School', 'Shounen', 'Sports']",3370
+7,Air: The Motion Picture,7.21,"['Drama', 'Romance', 'Supernatural']",2929
+7,,7.43,"['Childcare', 'Comedy', 'Drama', 'Romance', 'Shoujo']",2122
+6,Aiura,6.64,"['CGDCT', 'Iyashikei', 'School', 'Shounen', 'Slice of Life']",2359
+5,,6.31,"['Comedy', 'Drama', 'Music', 'Romance', 'School']",5695
+7,Ajin: Demi-Human,7.38,"['Action', 'Gore', 'Horror', 'Mystery', 'Seinen', 'Supernatural']",381
+7,,7.16,"['Action', 'Horror', 'Mystery', 'Seinen', 'Supernatural']",3428
+7,Ajin: Demi-Human Movie 1: Compel,7.42,"['Action', 'Gore', 'Horror', 'Mystery', 'Seinen', 'Supernatural']",3397
+8,Ajin: Demi-Human 2nd Season,7.56,"['Action', 'Gore', 'Horror', 'Mystery', 'Seinen', 'Supernatural']",858
+8,Snow White with the Red Hair,7.76,"['Drama', 'Medical', 'Romance', 'Shoujo']",306
+7,Snow White with the Red Hair 2,7.97,"['Drama', 'Medical', 'Romance', 'Shoujo']",669
+7,Snow White with the Red Hair OVA,7.71,"['Drama', 'Romance', 'Shoujo']",2489
+5,AkaKill! Theater,6.52,['Comedy'],3141
+5,Akame ga Kill!,7.47,"['Action', 'Fantasy', 'Gore', 'Shounen']",30
+5,,6.74,"['Action', 'Fantasy', 'Gore', 'Shounen', 'Super Power']",3712
+5,,5.73,"['Comedy', 'Mecha', 'Romance']",5168
+4,The Hill Dyed Rose Madder,6.38,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School']",1596
+5,The Girl in Twilight,6.43,"['Action', 'School', 'Sci-Fi']",3822
+8,Yona of the Dawn,8.03,"['Adventure', 'Fantasy', 'Romance', 'Shoujo']",210
+7,Yona of the Dawn OVA,8.1,"['Adventure', 'Fantasy', 'Historical', 'Shoujo']",1725
+6,AKB0048,7.35,"['Idols (Female)', 'Music', 'Sci-Fi']",2906
+6,AKB0048: Next Stage,7.62,"['Idols (Female)', 'Music', 'Sci-Fi']",3834
+8,Akebi's Sailor Uniform,7.65,"['CGDCT', 'School', 'Seinen', 'Slice of Life']",1283
+5,,6.93,"['Music', 'School', 'Slice of Life']",4833
+5,Akiba Maid War,7.58,"['Action', 'Comedy', 'Organized Crime']",1447
+3,Akiba's Trip The Animation,6.49,"['Action', 'Comedy', 'Ecchi', 'Fantasy', 'Otaku Culture', 'Parody', 'Urban Fantasy']",1588
+6,Akikan!,6.11,"['Anthropomorphic', 'Comedy', 'Ecchi', 'Fantasy', 'Romance']",1870
 8,Akira,8.16,"['Action', 'Gore', 'Horror', 'Military', 'Sci-Fi', 'Seinen', 'Super Power']",209
-0,Flowers of Evil,7.14,"['Drama', 'Psychological', 'Romance', 'School', 'Shounen', 'Suspense']",1103
-6,Aldnoah.Zero,7.38,"['Action', 'Mecha', 'Military', 'Sci-Fi']",449
-6,Aldnoah.Zero,6.91,"['Action', 'Mecha', 'Sci-Fi', 'Space']",807
+6,My Sweet Tyrant,6.82,"['Comedy', 'Josei', 'Romance', 'School']",1352
+4,Flowers of Evil,7.14,"['Drama', 'Psychological', 'Romance', 'School', 'Shounen', 'Suspense']",1103
+5,Akudama Drive,7.58,"['Action', 'Adult Cast', 'Gore', 'Sci-Fi', 'Suspense']",521
+6,Riddle Story of Devil,6.59,"['Action', 'Girls Love', 'High Stakes Game', 'School', 'Suspense']",934
+5,Riddle Story of Devil: Who's the Winner?,6.5,"['Action', 'Comedy', 'Ecchi', 'Girls Love']",3636
+7,Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord,7.13,"['Fantasy', 'Isekai', 'School', 'Villainess']",1476
+7,"I'm the Villainess, So I'm Taming the Final Boss",7.21,"['Comedy', 'Fantasy', 'Isekai', 'Romance', 'Shoujo', 'Villainess']",1319
+7,Aldnoah.Zero,7.38,"['Action', 'Mecha', 'Military', 'Sci-Fi']",449
+3,,6.6,"['Action', 'Mecha', 'Sci-Fi']",5659
+4,Aldnoah.Zero,6.91,"['Action', 'Mecha', 'Sci-Fi', 'Space']",807
+3,,5.35,"['CGDCT', 'Slice of Life']",3821
+7,Alice & Zoroku,7.1,"['Adventure', 'Mystery', 'Seinen', 'Super Power']",1915
+6,All Out!!,7.04,"['School', 'Seinen', 'Sports', 'Team Sports']",1989
+7,Allison & Lillia,7.32,"['Action', 'Adventure']",3543
+8,Sweetness & Lightning,7.53,"['Childcare', 'Gourmet', 'Iyashikei', 'Seinen', 'Slice of Life']",777
+5,Ah My Buddha Katsu,6.62,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'Seinen', 'Supernatural']",3191
+7,Amagami SS,7.28,"['Harem', 'Romance', 'School']",634
+3,Amagami SS Short Animations,7.21,"['Harem', 'Romance', 'School']",2985
+6,Amagami SS+ plus,7.38,"['Harem', 'Romance', 'School']",1433
+5,Amagami SS: Little Sister,7.18,['School'],3085
 7,Amagi Brilliant Park,7.45,"['Comedy', 'Supernatural', 'Workplace']",323
-8,Angel Beats!,8.05,"['Drama', 'Fantasy', 'School']",31
-9,Anohana: The Flower We Saw That Day,8.29,"['Drama', 'Supernatural']",70
-6,Anohana: The Flower We Saw That Day The Movie,7.83,"['Drama', 'Supernatural']",860
-8,Waiting in the Summer,7.4,"['Drama', 'Love Polygon', 'Romance', 'Sci-Fi']",624
-0,Blue Spring Ride,7.63,"['Love Polygon', 'Romance', 'School', 'Shoujo']",183
+6,Amagi Brilliant Park: No Time to Take It Easy!,7.21,"['Comedy', 'Supernatural', 'Workplace']",2177
+8,,7.23,"['Iyashikei', 'School', 'Shounen', 'Slice of Life']",2280
+7,,7.1,"['Iyashikei', 'School', 'Shounen', 'Slice of Life']",4095
+6,Amatsuki,6.86,"['Action', 'Historical', 'Isekai', 'Josei', 'Mythology', 'Supernatural', 'Time Travel']",3029
+3,Rainy Cocoa,4.72,"['Adult Cast', 'Comedy', 'Slice of Life', 'Workplace']",4422
+5,Rainy Cocoa in Hawaii,4.77,"['Comedy', 'Slice of Life', 'Workplace']",7694
+4,Ame-Con!!,4.77,"['Comedy', 'Slice of Life', 'Workplace']",8395
+5,"Rainy Cocoa, Welcome to Rainy Color",4.78,"['Comedy', 'Slice of Life', 'Workplace']",6466
+4,,4.87,"['Comedy', 'Slice of Life', 'Workplace']",6790
+3,Amnesia,5.97,"['Fantasy', 'Josei', 'Mystery', 'Reverse Harem', 'Romance']",861
+3,,6.32,"['Fantasy', 'Josei']",4061
+4,,5.98,"['Action', 'Adventure', 'Fantasy', 'School', 'Sci-Fi', 'Super Power']",3065
+10,Angel Beats!,8.05,"['Drama', 'Fantasy', 'School']",31
+7,,7.45,"['Fantasy', 'School']",1037
+8,,7.55,"['Comedy', 'Fantasy', 'School']",926
+8,Angolmois: Record of Mongol Invasion,7.12,"['Action', 'Drama', 'Historical', 'Military', 'Samurai']",2926
+8,,6.88,"['CGDCT', 'Comedy', 'Performing Arts', 'School', 'Sports']",3489
+4,Comical Psychosomatic Medicine,6.54,"['Comedy', 'Educational', 'Medical', 'Seinen']",3470
+8,Anime-Gataris,6.37,"['Comedy', 'Otaku Culture', 'Parody', 'School']",2548
+4,Anime de Training! Ex,5.39,['Sports'],4039
+5,Anime de Training! Xx,5.58,['Sports'],5583
+7,Anne-Happy,6.94,"['CGDCT', 'School', 'Slice of Life']",2502
+10,Anohana: The Flower We Saw That Day,8.29,"['Drama', 'Supernatural']",70
+9,Waiting in the Summer,7.4,"['Drama', 'Love Polygon', 'Romance', 'Sci-Fi']",624
+6,"Waiting in the Summer: In Our Last Summer of High School, We Await That Summer",7.17,"['Drama', 'Romance', 'Sci-Fi']",3257
+9,Another,7.47,"['Gore', 'Horror', 'Mystery', 'School']",59
+7,Another: The Other,7.25,"['Horror', 'Mystery', 'Suspense']",1305
+8,Assassination Classroom,8.08,"['Action', 'Comedy', 'School', 'Shounen']",34
+8,Assassination Classroom Second Season,8.48,"['Action', 'Comedy', 'School', 'Shounen']",86
+7,Assassination Classroom: Jump Festa 2013 Special,7.18,"['Action', 'Comedy', 'Shounen']",2503
+8,Blue Spring Ride,7.63,"['Love Polygon', 'Romance', 'School', 'Shoujo']",183
+7,Blue Spring Ride OVA,7.57,"['Love Polygon', 'Romance', 'School', 'Shoujo']",1608
+4,Blue Submarine No. 6,6.98,"['Action', 'Adventure', 'Award Winning', 'Mecha', 'Military', 'Sci-Fi', 'Shounen']",2962
 6,Blue Exorcist,7.48,"['Action', 'Mythology', 'School', 'Shounen', 'Supernatural']",41
-0,,7.66,"['Drama', 'Historical', 'Psychological', 'Suspense']",1141
-0,The Heroic Legend of Arslan,7.65,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Historical', 'Military', 'Shounen']",649
-10,Baccano!,8.35,"['Action', 'Adult Cast', 'Historical', 'Mystery', 'Organized Crime', 'Supernatural']",195
-10,Baccano! Specials,8.08,"['Action', 'Adult Cast', 'Historical', 'Mystery', 'Organized Crime', 'Supernatural']",1385
-8,Baka & Test: Summon the Beasts,7.5,"['Comedy', 'Love Polygon', 'Romance', 'School']",349
-8,Baka & Test – Summon the Beasts 2,7.67,"['Comedy', 'Love Polygon', 'Romance', 'School', 'Super Power']",660
-7,Bakemonogatari,8.32,"['Mystery', 'Romance', 'Supernatural', 'Vampire']",94
-0,Samurai Jam -Bakumatsu Rock-,6.03,"['Action', 'Comedy', 'Historical', 'Music', 'Performing Arts']",4225
-6,Bamboo Blade,7.29,"['Combat Sports', 'Comedy', 'School', 'Seinen', 'Sports']",2347
-0,Barakamon,8.37,"['Childcare', 'Iyashikei', 'Slice of Life', 'Visual Arts']",319
-0,Bartender,7.32,"['Adult Cast', 'Drama', 'Gourmet', 'Seinen', 'Workplace']",2182
-6,Basilisk,7.53,"['Action', 'Adult Cast', 'Drama', 'Gore', 'Historical', 'Martial Arts', 'Romance', 'Samurai', 'Seinen']",1297
-10,Beck: Mongolian Chop Squad,8.29,"['Drama', 'Music', 'Shounen']",711
-8,Berserk: The Golden Age Arc I - The Egg of the King,7.71,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Gore', 'Horror', 'Military', 'Seinen']",1091
-8,Berserk: The Golden Age Arc II - The Battle for Doldrey,7.87,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Gore', 'Horror', 'Military', 'Seinen']",1168
+6,Blue Exorcist: The Movie,7.57,"['Action', 'Mythology', 'School', 'Shounen', 'Supernatural']",916
+7,Blue Exorcist: Kyoto Saga,7.34,"['Action', 'Mythology', 'School', 'Shounen', 'Supernatural']",258
+8,Blue Exorcist: Shimane Illuminati Saga,7.05,"['Action', 'Mythology', 'School', 'Shounen', 'Supernatural']",1582
+7,Blue Exorcist: Beyond the Snow Saga,7.39,"['Action', 'Mythology', 'School', 'Shounen', 'Supernatural']",2655
+6,Aokana: Four Rhythm Across the Blue,6.64,"['School', 'Sci-Fi', 'Sports']",1615
+5,Aoharu x Machinegun,7.15,"['Crossdressing', 'Shounen', 'Sports', 'Team Sports']",1163
+5,Aoharu x Machinegun: This is a Battlefield for Beasts!,7.18,"['Comedy', 'Crossdressing', 'Shounen', 'Sports', 'Team Sports']",3846
+7,,7.66,"['Drama', 'Historical', 'Psychological', 'Suspense']",1141
+4,Sweet Blue Flowers,7.09,"['Drama', 'Girls Love', 'School']",2157
+3,World War Blue,5.67,"['Action', 'Adventure', 'Comedy', 'Ecchi', 'Fantasy', 'Parody', 'Shounen', 'Super Power']",3213
+7,Arpeggio of Blue Steel -Ars Nova-,7.34,"['Action', 'Sci-Fi', 'Seinen']",1607
+6,,7.38,"['Action', 'Sci-Fi', 'Seinen']",4453
+7,Appare-Ranman!,7.24,"['Adult Cast', 'Comedy', 'Historical', 'Racing']",1765
+5,Aquarian Age: Sign for Evolution,6.05,"['Action', 'Adventure', 'Fantasy', 'Music', 'Romance', 'Sci-Fi', 'Super Power']",5835
+9,Aquarion Evol,7.07,"['Action', 'Fantasy', 'Mecha', 'Romance', 'Sci-Fi']",2087
+5,,5.7,"['Action', 'Fantasy', 'Mecha', 'Romance', 'Sci-Fi']",4699
+7,O Maidens in Your Savage Season,7.3,"['Drama', 'Romance', 'School', 'Shounen']",705
+8,Arakawa Under the Bridge,7.56,"['Comedy', 'Romance', 'Seinen']",686
+7,Arakawa Under the Bridge x Bridge,7.71,"['Comedy', 'Romance', 'Seinen']",1492
+3,Arata: The Legend,6.42,"['Adventure', 'Fantasy', 'Isekai', 'Shounen']",2642
+4,World's End,6.24,"['Sci-Fi', 'Time Travel']",5005
+5,,6.49,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']",5400
+3,La storia della Arcana Famiglia,6.26,"['Action', 'Fantasy', 'Reverse Harem', 'Romance']",1205
+3,La storia della Arcana Famiglia OVA,6.74,"['Fantasy', 'Reverse Harem', 'Romance']",4798
+5,,6.99,"['Action', 'Drama', 'Military', 'Romance', 'Shounen']",5648
+6,The Knight in the Area,7.16,"['Comedy', 'School', 'Shounen', 'Sports', 'Team Sports']",2571
+6,,6.75,"['Action', 'Adventure', 'Drama', 'Mecha', 'Military', 'Sci-Fi']",4337
+4,,6.71,"['Drama', 'Music']",6148
+8,Aria the Animation,7.68,"['Fantasy', 'Iyashikei', 'Sci-Fi', 'Shounen', 'Slice of Life']",1484
+8,Aria the Natural,8.16,"['Fantasy', 'Iyashikei', 'Sci-Fi', 'Shounen', 'Slice of Life']",2498
+5,,7.31,"['Fantasy', 'Iyashikei', 'Sci-Fi', 'Shounen', 'Slice of Life']",5439
+9,Aria the Origination,8.48,"['Fantasy', 'Iyashikei', 'Sci-Fi', 'Shounen', 'Slice of Life']",1780
+6,Aria The Origination Picture Drama,7.0,"['Fantasy', 'Iyashikei', 'Sci-Fi', 'Shounen', 'Slice of Life']",6220
+2,Arifureta: From Commonplace to World's Strongest,6.72,"['Action', 'Adventure', 'Fantasy', 'Harem', 'Isekai']",277
+5,Arifureta: From Commonplace to World's Strongest Season 2,7.16,"['Action', 'Adventure', 'Fantasy', 'Harem', 'Isekai']",579
+3,Arifureta: Omnibus - The Great Orcus Labyrinth,6.17,"['Action', 'Adventure', 'Fantasy', 'Harem', 'Isekai']",3775
+4,Ark Nine,5.03,['Action'],7059
+4,Arknights Animation: Prelude to Dawn,7.08,"['Action', 'Fantasy']",2033
+3,,5.54,"['Idols (Male)', 'Music']",7630
+5,Giant Beasts of Ars,6.04,"['Action', 'Adventure', 'Fantasy']",3437
+8,The Heroic Legend of Arslan,7.65,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Historical', 'Military', 'Shounen']",649
+7,The Heroic Legend of Arslan: Dust Storm Dance,7.5,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Historical', 'Military', 'Shounen']",1673
+5,The Heroic Legend of Arslan: Chapter of Reminiscence - The Blade to Retake the Kingdom,6.57,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Historical', 'Military']",5810
+8,Arte,7.2,"['Drama', 'Historical', 'Seinen', 'Visual Arts']",1751
+3,Calamity of the Zombie Girl,5.32,"['Action', 'Gore', 'Horror', 'Supernatural']",5642
+6,,6.2,"['Action', 'Drama', 'Mystery', 'Sci-Fi', 'Suspense']",4519
+5,Shrine of the Morning Mist,6.1,"['Action', 'Comedy', 'Fantasy', 'Mythology', 'Seinen']",7154
+6,Living for the Day After Tomorrow,7.02,"['Drama', 'Supernatural']",4607
+8,Asobi Asobase - workshop of fun -,8.19,"['Comedy', 'Gag Humor', 'School', 'Seinen']",472
+6,Cat Planet Cuties,6.57,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'Sci-Fi']",1233
+3,,5.92,['Fantasy'],701
+6,,6.5,"['Action', 'Fantasy']",2343
+2,Astarotte's Toy,6.47,"['Comedy', 'Ecchi', 'Fantasy', 'Harem', 'Isekai', 'Romance', 'Seinen']",1630
+5,Samurai Harem,6.68,"['Action', 'Comedy', 'Ecchi', 'Harem', 'Martial Arts', 'Romance', 'Shounen']",1210
+5,,6.88,"['Action', 'Fantasy', 'Harem', 'Mecha', 'School', 'Sci-Fi']",2150
+5,,7.23,"['Action', 'Fantasy', 'Harem', 'Mecha', 'School', 'Sci-Fi']",2912
+6,,6.8,"['Action', 'Sci-Fi', 'Seinen']",4147
+7,Atri -My Dear Moments-,7.18,"['Drama', 'Romance', 'Sci-Fi']",2718
+5,,5.86,"['Adventure', 'Fantasy', 'Sci-Fi']",5262
+5,,6.3,"['Action', 'Fantasy', 'Gore', 'Horror', 'Sci-Fi', 'Super Power']",4257
+5,"Ceres, Celestial Legend",7.17,"['Adventure', 'Drama', 'Horror', 'Psychological', 'Reincarnation', 'Romance', 'Shoujo', 'Supernatural']",2893
+7,Azumanga Daioh: The Animation,8.05,"['CGDCT', 'Comedy', 'Gag Humor', 'School']",643
+5,Azumanga Daioh: The Very Short Movie,7.06,"['CGDCT', 'Comedy', 'Gag Humor', 'School']",3476
+5,Azumanga Web Daioh,6.72,"['CGDCT', 'Comedy', 'Gag Humor', 'School']",3953
+3,Azur Lane the Animation,6.29,"['Action', 'Anthropomorphic', 'Military', 'Sci-Fi']",1406
+4,,5.99,"['Action', 'Anthropomorphic', 'Military', 'Sci-Fi']",8212
+4,Azur Lane: Slow Ahead!,7.01,"['Anthropomorphic', 'CGDCT', 'Comedy', 'Military', 'Sci-Fi']",3177
+5,elDLIVE,6.1,"['Action', 'Sci-Fi', 'Shounen', 'Space']",3307
+4,,6.58,"['Idols (Male)', 'Music']",3376
+4,,6.69,"['Idols (Male)', 'Music']",5668
+6,B: The Beginning,7.15,"['Action', 'Detective', 'Mystery', 'Psychological', 'Super Power', 'Suspense']",702
+8,,7.8,"['School', 'Shounen', 'Sports']",1633
+8,,8.0,"['School', 'Shounen', 'Sports']",2310
+4,Babylon,6.74,"['Adult Cast', 'Detective', 'Mystery', 'Psychological', 'Suspense']",1534
+9,Baccano!,8.35,"['Action', 'Adult Cast', 'Historical', 'Mystery', 'Organized Crime', 'Supernatural']",195
+8,Baccano! Specials,8.08,"['Action', 'Adult Cast', 'Historical', 'Mystery', 'Organized Crime', 'Supernatural']",1385
+4,Back Arrow,6.33,"['Action', 'Fantasy', 'Mecha']",3579
+4,Back Street Girls: Gokudols,6.97,"['Comedy', 'Ecchi', 'Gag Humor', 'Magical Sex Shift', 'Organized Crime', 'Seinen', 'Workplace']",1558
+6,Baka & Test: Summon the Beasts,7.5,"['Comedy', 'Love Polygon', 'Romance', 'School']",349
+5,Baka & Test – Summon the Beasts 2,7.67,"['Comedy', 'Love Polygon', 'Romance', 'School', 'Super Power']",660
+3,,7.26,"['Comedy', 'School']",3294
+5,Baka & Test - Summon the Beasts OVA,7.56,"['Comedy', 'School', 'Super Power']",1841
+5,,6.75,"['Comedy', 'Parody']",4391
+7,The Boy and the Beast,8.23,"['Adventure', 'Anthropomorphic', 'Fantasy', 'Isekai']",557
+9,Bakemonogatari,8.32,"['Mystery', 'Romance', 'Supernatural', 'Vampire']",94
+5,,7.3,"['Mystery', 'Romance', 'Supernatural']",3221
+7,Bakuman.,8.17,"['Comedy', 'Drama', 'Otaku Culture', 'Romance', 'Shounen']",358
+8,Bakuman. Season 2,8.33,"['Comedy', 'Drama', 'Otaku Culture', 'Romance', 'Shounen']",690
+8,Bakuman. Season 3,8.52,"['Comedy', 'Drama', 'Otaku Culture', 'Romance', 'Shounen']",755
+3,,5.73,"['Action', 'Historical', 'Samurai', 'Time Travel']",4655
+4,,5.71,"['Action', 'Historical', 'Samurai', 'Time Travel']",6079
+5,Bakumatsu Gijinden Roman,6.13,"['Fantasy', 'Historical']",6403
+6,Intrigue in the Bakumatsu: Irohanihoheto,7.08,"['Action', 'Drama', 'Historical', 'Samurai']",3766
+4,Samurai Jam -Bakumatsu Rock-,6.03,"['Action', 'Comedy', 'Historical', 'Music', 'Performing Arts']",4225
+7,Bakuon!!,6.5,"['CGDCT', 'Comedy', 'School', 'Seinen']",2836
+6,,6.44,"['CGDCT', 'Racing', 'Seinen', 'Slice of Life', 'Sports']",6566
+6,Burst Angel,6.78,"['Action', 'Adventure', 'Mecha', 'Sci-Fi']",2671
+5,Backflip!!,7.49,"['Performing Arts', 'School', 'Sports']",2068
+3,,6.38,"['Action', 'Drama', 'Mecha', 'Sci-Fi']",5327
+8,Welcome to the Ballroom,8.18,"['Performing Arts', 'Shounen', 'Sports']",726
+7,Bamboo Blade,7.29,"['Combat Sports', 'Comedy', 'School', 'Seinen', 'Sports']",2347
+8,Banana Fish,8.46,"['Action', 'Adventure', 'Delinquents', 'Drama', 'Organized Crime', 'Psychological', 'Shoujo', 'Suspense']",202
+5,BanG Dream!,6.99,"['CGDCT', 'Music', 'School']",2234
+7,BanG Dream! 2nd Season,7.57,"['CGDCT', 'Music', 'School']",3379
+9,Barakamon,8.37,"['Childcare', 'Iyashikei', 'Slice of Life', 'Visual Arts']",319
+7,Requiem of the Rose King,6.38,"['Action', 'Drama', 'Historical', 'Shoujo', 'Supernatural']",2923
+6,Bartender,7.32,"['Adult Cast', 'Drama', 'Gourmet', 'Seinen', 'Workplace']",2182
+7,Bartender Glass of God,7.38,"['Adult Cast', 'Drama', 'Gourmet', 'Seinen', 'Workplace']",1982
+4,Basilisk,7.53,"['Action', 'Adult Cast', 'Drama', 'Gore', 'Historical', 'Martial Arts', 'Romance', 'Samurai', 'Seinen']",1297
+5,Basilisk: The Ouka Ninja Scrolls,5.55,"['Action', 'Drama', 'Historical', 'Martial Arts', 'Seinen']",3732
+7,,7.19,"['Mecha', 'Sci-Fi', 'Sports', 'Team Sports']",3352
+7,,5.71,"['Drama', 'Sports', 'Team Sports']",3170
+4,Battle Athletes Victory ReSTART!,5.11,"['Adventure', 'Comedy', 'School', 'Sci-Fi', 'Sports']",7098
+3,Battle Girl High School,5.83,"['Action', 'School', 'Sci-Fi']",4647
+3,Bayonetta: Bloody Fate,6.63,"['Action', 'Fantasy', 'Mythology', 'Super Power']",3122
+8,,7.8,"['Anthropomorphic', 'Drama', 'Psychological', 'School', 'Shounen', 'Suspense']",206
+6,,7.77,"['Anthropomorphic', 'Drama', 'Psychological', 'School', 'Shounen', 'Suspense']",511
+3,Beatless,6.22,"['Action', 'Drama', 'Romance', 'Sci-Fi']",1408
+3,,6.8,"['Action', 'Drama', 'Romance', 'Sci-Fi']",3786
+3,,5.66,"['Action', 'Drama', 'Romance', 'Sci-Fi']",6064
+8,Beck: Mongolian Chop Squad,8.29,"['Drama', 'Music', 'Shounen']",711
+7,Beelzebub,7.84,"['Action', 'Childcare', 'Comedy', 'Delinquents', 'Mythology', 'School', 'Shounen', 'Supernatural']",375
+6,As Miss Beelzebub Likes.,7.23,"['Comedy', 'Fantasy', 'Mythology', 'Romance', 'Shounen', 'Workplace']",2179
+4,,6.07,"['Action', 'Mythology', 'Supernatural']",2613
+5,Ben-To,7.19,"['Action', 'Comedy', 'Gourmet', 'Martial Arts']",760
+6,Handyman Saitou in Another World,7.4,"['Adventure', 'Comedy', 'Fantasy', 'Isekai']",1302
+5,,5.51,"['Fantasy', 'Idols (Female)', 'Music']",6982
+5,Miss Bernard said.,5.96,"['Comedy', 'School']",4789
+5,Berserk (2016),6.32,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Gore', 'Horror', 'Military', 'Seinen']",661
+6,Berserk: Season II,6.57,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Gore', 'Horror', 'Military', 'Seinen']",1288
+5,Berserk: Recollections of the Witch,5.84,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Gore', 'Horror', 'Military', 'Seinen']",5369
+7,Berserk: The Golden Age Arc I - The Egg of the King,7.71,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Gore', 'Horror', 'Military', 'Seinen']",1091
+6,Berserk: The Golden Age Arc II - The Battle for Doldrey,7.87,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Gore', 'Horror', 'Military', 'Seinen']",1168
 8,Berserk: The Golden Age Arc III - The Advent,8.21,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Gore', 'Horror', 'Military', 'Seinen']",1101
-0,,5.35,"['Action', 'Shounen', 'Super Power']",1080
-0,Pretty Guardian Sailor Moon Crystal,7.13,"['Mahou Shoujo', 'Romance', 'Shoujo']",1612
-5,Black Bullet,7.08,"['Action', 'Mystery', 'Sci-Fi']",191
-6,Black Cat,7.32,"['Action', 'Adventure', 'Sci-Fi', 'Shounen', 'Super Power']",929
-0,,7.58,"['Drama', 'Medical', 'Shounen']",3817
-10,Black Lagoon,8.03,"['Action', 'Adult Cast', 'Organized Crime', 'Seinen']",158
-8,Black Lagoon: Roberta's Blood Trail,8.02,"['Action', 'Adult Cast', 'Organized Crime', 'Seinen']",823
-10,Black Lagoon: The Second Barrage,8.17,"['Action', 'Adult Cast', 'Organized Crime', 'Seinen']",436
+5,,5.71,"['Action', 'Shounen', 'Super Power']",3626
+2,,5.35,"['Action', 'Shounen', 'Super Power']",1080
+4,,5.47,"['Comedy', 'Fantasy']",10183
+3,Cute High Earth Defense Club HAPPY KISS!,6.47,"['Comedy', 'Parody', 'School']",6011
+5,Cute High Earth Defense Club LOVE!,6.82,"['Comedy', 'Parody', 'School']",2451
+3,Cute High Earth Defense Club LOVE! LOVE!,7.01,"['Comedy', 'Parody', 'School']",4259
+6,,6.84,"['Seinen', 'Slice of Life']",4828
+8,Good Luck Girl!,7.66,"['Comedy', 'Gag Humor', 'Parody', 'Shounen', 'Supernatural']",1070
+6,Birdie Wing: Golf Girls' Story,7.48,['Sports'],2773
+8,Sailor Moon,7.74,"['Mahou Shoujo', 'Mythology', 'Romance', 'Shoujo']",623
+3,Pretty Guardian Sailor Moon Crystal,7.13,"['Mahou Shoujo', 'Romance', 'Shoujo']",1612
+5,Pretty Guardian Sailor Moon Crystal Season III,7.76,"['Mahou Shoujo', 'Romance', 'Shoujo']",2891
+4,Crane Game Girls,4.41,"['Comedy', 'Sci-Fi', 'Space', 'Strategy Game']",7236
+3,Crane Game Girls Galaxy,4.73,"['Comedy', 'Sci-Fi', 'Space', 'Strategy Game']",9857
+7,Black Blood Brothers,7.08,"['Action', 'Comedy', 'Fantasy', 'Urban Fantasy', 'Vampire']",2116
+4,Black Bullet,7.08,"['Action', 'Mystery', 'Sci-Fi']",191
+9,Black Cat,7.32,"['Action', 'Adventure', 'Sci-Fi', 'Shounen', 'Super Power']",929
+7,Black Clover,8.14,"['Action', 'Fantasy', 'Shounen']",57
+6,,6.75,"['Action', 'Comedy', 'Fantasy', 'Shounen']",3511
+4,Black Clover: The All Magic Knights Thanksgiving Festa,6.44,"['Comedy', 'Fantasy', 'Shounen']",3863
+7,Blackfox,6.68,['Action'],2473
+8,Black Lagoon,8.03,"['Action', 'Adult Cast', 'Organized Crime', 'Seinen']",158
+3,,6.76,['Comedy'],2830
+7,Black Lagoon: Roberta's Blood Trail,8.02,"['Action', 'Adult Cast', 'Organized Crime', 'Seinen']",823
+8,Black Lagoon: The Second Barrage,8.17,"['Action', 'Adult Cast', 'Organized Crime', 'Seinen']",436
+3,,5.95,"['Action', 'Drama', 'Super Power']",3536
+4,,7.09,"['Action', 'Drama', 'Fantasy', 'School', 'Super Power']",1414
+5,Black Rock Shooter,6.79,"['Action', 'Drama', 'Fantasy', 'School', 'Super Power']",693
+5,Blade,6.22,"['Action', 'Drama', 'Horror', 'Supernatural', 'Vampire']",4295
+3,Blade & Soul,6.03,"['Action', 'Adventure', 'Fantasy', 'Martial Arts']",1886
+7,,6.9,"['Sci-Fi', 'Suspense']",3743
 6,Blame!: The Movie,7.02,"['Action', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",2052
-8,Bleach,7.96,"['Action', 'Adventure', 'Shounen', 'Supernatural']",36
-6,Erased,8.3,"['Mystery', 'Psychological', 'Seinen', 'Suspense', 'Time Travel']",29
+5,Blassreiter,6.87,"['Action', 'Drama', 'Mecha', 'Sci-Fi']",2463
+4,BlazBlue: Alter Memory,6.08,"['Action', 'Fantasy', 'Super Power']",2331
+7,Bleach,7.96,"['Action', 'Adventure', 'Shounen', 'Supernatural']",36
+7,Bleach the Movie: Memories of Nobody,7.43,"['Action', 'Adventure', 'Shounen', 'Supernatural']",892
+7,Bleach the Movie: The DiamondDust Rebellion,7.42,"['Action', 'Adventure', 'Shounen', 'Supernatural']",1009
+6,Bleach the Movie: Fade to Black,7.5,"['Action', 'Adventure', 'Shounen', 'Supernatural']",1051
+9,Bleach: Thousand-Year Blood War,9.0,"['Action', 'Adventure', 'Shounen', 'Supernatural']",380
+8,Bleach: Thousand-Year Blood War - The Separation,8.7,"['Action', 'Adventure', 'Shounen', 'Supernatural']",769
+9,Bleach: Thousand-Year Blood War - The Conflict,8.73,"['Action', 'Adventure', 'Shounen', 'Supernatural']",1277
+5,,6.97,"['Action', 'Adventure', 'Shounen', 'Supernatural']",1924
+8,BLEND-S,7.25,"['Comedy', 'Otaku Culture', 'Workplace']",322
+8,Blood Lad,7.24,"['Action', 'Comedy', 'Delinquents', 'Fantasy', 'Mythology', 'Seinen', 'Vampire']",304
+7,Blood Lad OVA,7.1,"['Action', 'Comedy', 'Delinquents', 'Fantasy', 'Mythology', 'Seinen', 'Vampire']",1984
+8,Blood+,7.61,"['Action', 'Drama', 'Gore', 'Horror', 'Military', 'Mystery', 'Supernatural', 'Vampire']",647
+3,Blood-C,6.53,"['Action', 'Gore', 'Horror', 'Mystery', 'School', 'Supernatural', 'Vampire']",646
+3,,6.76,"['Action', 'Gore', 'Horror', 'School', 'Supernatural', 'Vampire']",5046
+4,Blood-C: The Last Dark,7.15,"['Action', 'Gore', 'Horror', 'Supernatural', 'Vampire']",2105
+3,Bloodivores,5.47,"['Action', 'Mystery', 'Supernatural', 'Vampire']",2044
+6,Blue Drop,6.67,"['Drama', 'Girls Love', 'Sci-Fi', 'Shounen']",4158
+5,Blue Gender,7.01,"['Action', 'Adventure', 'Drama', 'Gore', 'Horror', 'Mecha', 'Military', 'Sci-Fi', 'Space', 'Survival']",2450
+8,Blue Lock,8.21,"['Shounen', 'Sports', 'Team Sports']",269
+7,Blue Lock Season 2,7.52,"['Shounen', 'Sports', 'Team Sports']",1089
+5,Blue Reflection Ray,5.85,"['Fantasy', 'Mahou Shoujo', 'School']",4186
+0,,5.78,"['Fantasy', 'Mahou Shoujo', 'School']",12369
+4,BNA: Brand New Animal,7.34,"['Action', 'Anthropomorphic', 'Fantasy', 'Urban Fantasy']",652
+7,Bocchi the Rock!,8.76,"['CGDCT', 'Comedy', 'Music']",339
+8,Erased,8.3,"['Mystery', 'Psychological', 'Seinen', 'Suspense', 'Time Travel']",29
 8,My Hero Academia,7.84,"['Action', 'School', 'Shounen', 'Super Power']",7
-0,Bokurano,7.59,"['Action', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",1294
-0,Bonjour♪Sweet Love Patisserie,6.09,"['Gourmet', 'Reverse Harem', 'Romance', 'School']",2947
-7,Boruto: Naruto the Movie,7.38,"['Action', 'Adventure', 'Fantasy', 'Martial Arts', 'Shounen']",496
-8,Xam'd: Lost Memories,7.62,"['Action', 'Adventure', 'Military', 'Sci-Fi']",1666
-0,Broken Blade,7.24,"['Action', 'Adult Cast', 'Fantasy', 'Mecha', 'Military', 'Shounen']",2229
-6,Broken Blade,7.62,"['Action', 'Adult Cast', 'Fantasy', 'Mecha', 'Military', 'Shounen']",2421
+9,My Hero Academia Season 2,8.06,"['Action', 'School', 'Shounen', 'Super Power']",15
+7,My Hero Academia Season 3,7.99,"['Action', 'School', 'Shounen', 'Super Power']",26
+4,My Hero Academia Season 4,7.87,"['Action', 'School', 'Shounen', 'Super Power']",53
+4,My Hero Academia Season 5,7.36,"['Action', 'School', 'Shounen', 'Super Power']",116
+6,My Hero Academia Season 6,8.25,"['Action', 'School', 'Shounen', 'Super Power']",296
+7,My Hero Academia Season 7,8.07,"['Action', 'School', 'Shounen', 'Super Power']",718
+5,My Hero Academia: Hero Notebook,7.26,"['Action', 'School', 'Shounen', 'Super Power']",1338
+6,My Hero Academia: Make It! Do-or-Die Survival Training,7.16,"['Action', 'School', 'Shounen', 'Super Power']",1362
+6,My Hero Academia: Training of the Dead,7.21,"['Action', 'School', 'Shounen', 'Super Power']",1243
+4,,5.74,"['Comedy', 'Gourmet']",5125
+8,The Dangers in My Heart,8.24,"['Comedy', 'Romance', 'School', 'Shounen']",692
+3,A Destructive God Sits Next to Me,6.62,"['Comedy', 'Josei', 'School']",2950
+8,My Wife Has No Emotion,6.77,"['Comedy', 'Romance', 'Sci-Fi', 'Seinen']",3100
+3,,6.17,"['Romance', 'Shoujo']",3539
+8,Haganai: I don't have many friends,7.14,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School']",240
+8,Haganai: I don't have many friends NEXT,7.27,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School']",428
+8,Haganai: A Round-Robin Story's Ending Is Way Extreme,7.02,"['Comedy', 'Ecchi', 'Love Polygon', 'Romance', 'School']",1972
+3,Haganai: Black Hotpot Gives Girls a Bad Smell,6.71,"['Comedy', 'Romance', 'School']",1867
+6,We Were There,7.24,"['Drama', 'Love Polygon', 'Romance', 'Shoujo']",1096
+8,Bokurano,7.59,"['Action', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",1294
+4,Protocol: Rain,6.1,"['Action', 'Video Game']",3758
+5,,6.1,"['Action', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi']",9891
+8,The Kawai Complex Guide to Manors and Hostel Behavior,7.65,"['Love Status Quo', 'Romance', 'School', 'Seinen']",633
+7,The Kawai Complex Guide to Manors and Hostel Behavior OVA: First Time,7.63,"['Love Status Quo', 'Romance', 'School', 'Seinen']",3234
+1,Bludgeoning Angel Dokuro-chan,6.53,"['Comedy', 'Ecchi', 'Gag Humor', 'Gore', 'Supernatural']",1227
+7,Remake Our Life!,7.39,"['Adult Cast', 'Drama', 'Romance', 'Time Travel']",696
+5,We Never Learn: BOKUBEN,7.27,"['Comedy', 'Harem', 'Romance', 'School', 'Shounen']",524
+6,We Never Learn: BOKUBEN Season 2,7.33,"['Comedy', 'Harem', 'Romance', 'School', 'Shounen']",825
+5,Bonjour♪Sweet Love Patisserie,6.09,"['Gourmet', 'Reverse Harem', 'Romance', 'School']",2947
+7,Boogiepop Phantom,7.15,"['Avant Garde', 'Drama', 'Horror', 'Mystery', 'Psychological', 'Supernatural', 'Suspense']",1692
+8,Boogiepop and Others,7.06,"['Avant Garde', 'Drama', 'Horror', 'Mystery', 'Psychological', 'Supernatural', 'Suspense']",1097
+6,Boruto: Naruto Next Generations,6.0,"['Action', 'Adventure', 'Fantasy', 'Martial Arts', 'Shounen']",208
+7,My Daughter Left the Nest and Returned an S-Rank Adventurer,6.76,"['Action', 'Adventure', 'Fantasy']",2315
+6,The Melody of Oblivion,6.26,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Mecha', 'Psychological', 'Sci-Fi', 'Shounen', 'Space', 'Super Power']",5128
+7,Xam'd: Lost Memories,7.62,"['Action', 'Adventure', 'Military', 'Sci-Fi']",1666
+4,Berserk of Gluttony,6.73,"['Action', 'Adventure', 'Fantasy']",1214
+6,Boys Be...,6.39,"['Comedy', 'Romance', 'School', 'Shounen']",4687
+5,Brave 10,6.73,"['Action', 'Adventure', 'Historical', 'Samurai', 'Seinen', 'Super Power']",1629
+5,Brave Beats,6.46,"['Adventure', 'Music']",8763
+5,Brave Witches,6.78,"['Action', 'Ecchi', 'Military', 'Sci-Fi']",2939
+4,Brave Witches: Petersburg Grand Strategy,7.0,"['Action', 'Ecchi', 'Military', 'Sci-Fi']",6381
+5,Broken Blade,7.24,"['Action', 'Adult Cast', 'Fantasy', 'Mecha', 'Military', 'Shounen']",2229
+7,Broken Blade,7.62,"['Action', 'Adult Cast', 'Fantasy', 'Mecha', 'Military', 'Shounen']",2421
 7,Broken Blade 2,7.7,"['Action', 'Adult Cast', 'Fantasy', 'Mecha', 'Military', 'Shounen']",2915
 7,Broken Blade 3,7.76,"['Action', 'Adult Cast', 'Fantasy', 'Mecha', 'Military', 'Shounen']",2989
-8,BTOOOM!,7.27,"['Action', 'Gore', 'High Stakes Game', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",213
-8,Buso Renkin,7.29,"['Action', 'School', 'Shounen', 'Supernatural']",1422
-8,5 Centimeters per Second,7.56,"['Drama', 'Romance']",175
-0,Canaan,7.21,"['Action', 'Adult Cast', 'Mystery', 'Sci-Fi']",1086
-0,Captain Earth,6.4,"['Action', 'Mecha', 'Romance', 'Sci-Fi', 'Space']",2787
+7,Broken Blade 4,7.82,"['Action', 'Adult Cast', 'Fantasy', 'Mecha', 'Military', 'Shounen']",3024
+7,Broken Blade 5,7.79,"['Action', 'Adult Cast', 'Fantasy', 'Mecha', 'Military', 'Shounen']",3092
+8,Broken Blade 6,7.67,"['Action', 'Adult Cast', 'Fantasy', 'Mecha', 'Military', 'Shounen']",3117
+7,BTOOOM!,7.27,"['Action', 'Gore', 'High Stakes Game', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",213
+6,BBK/BRNK,6.25,"['Action', 'Drama', 'Mecha', 'Sci-Fi']",2667
+6,BBK/BRNK: The Gentle Giants of the Galaxy,6.74,"['Action', 'Drama', 'Mecha', 'Sci-Fi']",4523
+6,Shine On! Bakumatsu Bad Boys,6.0,"['Action', 'Historical', 'Samurai']",3839
+6,Buddy Complex,7.12,"['Action', 'Mecha', 'Sci-Fi', 'Time Travel']",2305
+5,,7.29,"['Action', 'Mecha', 'Sci-Fi', 'Time Travel']",4483
+5,Build-Divide -#000000- Code Black,6.39,"['Fantasy', 'Strategy Game']",3020
+5,Build Divide -#FFFFFF- Code White,6.64,"['Fantasy', 'Strategy Game']",4966
+8,Bungo Stray Dogs,7.81,"['Action', 'Adult Cast', 'Detective', 'Mystery', 'Organized Crime', 'Seinen', 'Super Power']",90
+8,Bungo Stray Dogs 2,8.17,"['Action', 'Adult Cast', 'Detective', 'Mystery', 'Organized Crime', 'Seinen', 'Super Power']",205
+8,Bungo Stray Dogs 3,8.2,"['Action', 'Adult Cast', 'Detective', 'Mystery', 'Organized Crime', 'Seinen', 'Super Power']",334
+8,Bungo Stray Dogs 4,8.43,"['Action', 'Adult Cast', 'Detective', 'Mystery', 'Organized Crime', 'Seinen', 'Super Power']",801
+7,Bungo Stray Dogs 5,8.63,"['Action', 'Adult Cast', 'Detective', 'Mystery', 'Organized Crime', 'Seinen', 'Super Power', 'Vampire']",1202
+6,Bungo Stray Dogs Wan!,7.98,['Comedy'],1880
+6,Bungo Stray Dogs: Dead Apple,7.91,"['Action', 'Adult Cast', 'Detective', 'Mystery', 'Organized Crime', 'Seinen', 'Super Power']",884
+3,Bungo and Alchemist -Gears of Judgement-,6.52,"['Adventure', 'Fantasy']",3115
+7,,7.14,"['Action', 'Fantasy', 'Shounen']",986
+7,,7.44,"['Action', 'Fantasy', 'Shounen']",3602
+7,Buso Renkin,7.29,"['Action', 'School', 'Shounen', 'Supernatural']",1422
+4,Busou Shinki: Armored War Goddess,6.29,"['Action', 'Mecha', 'Sci-Fi', 'Slice of Life']",3787
+5,Armed Girl's Machiavellism,6.87,"['Action', 'Comedy', 'Ecchi', 'Harem', 'Martial Arts', 'School', 'Shounen']",616
+6,Butareba -The Story of a Man Who Turned into a Pig-,6.3,"['Adventure', 'Fantasy', 'Isekai']",3461
+4,Butlers x Battlers,5.66,"['Drama', 'School', 'Supernatural', 'Time Travel']",4634
+5,"Bye Bye, Earth",6.06,"['Action', 'Adventure', 'Anthropomorphic', 'Fantasy']",3069
+9,5 Centimeters per Second,7.56,"['Drama', 'Romance']",175
+5,[C] CONTROL - The Money and Soul of Possibility,7.15,"['Action', 'High Stakes Game', 'Mystery', 'Sci-Fi', 'Super Power', 'Suspense']",788
+4,Caligula,5.98,"['Action', 'Sci-Fi']",2570
+4,Campione!,6.91,"['Action', 'Comedy', 'Ecchi', 'Harem', 'Mythology', 'Romance', 'Supernatural']",614
+6,Canaan,7.21,"['Action', 'Adult Cast', 'Mystery', 'Sci-Fi']",1086
+5,,6.75,"['Girls Love', 'School']",4437
+5,,6.72,"['Girls Love', 'School']",4681
+6,,6.76,"['Girls Love', 'Love Polygon', 'School']",2594
+5,,6.76,"['Girls Love', 'School']",4108
+5,Canvas 2: Rainbow Colored Sketch,6.71,"['Comedy', 'Drama', 'Romance', 'Visual Arts']",4449
+4,Captain Earth,6.4,"['Action', 'Mecha', 'Romance', 'Sci-Fi', 'Space']",2787
+8,,7.42,"['Shounen', 'Sports', 'Team Sports']",2557
+10,Cardcaptor Sakura,8.17,"['Adventure', 'Comedy', 'Drama', 'Mahou Shoujo', 'Romance', 'School', 'Shoujo']",531
+7,Cardcaptor Sakura The Movie,7.63,"['Award Winning', 'Comedy', 'Drama', 'Mahou Shoujo', 'Shoujo']",2163
+8,Cardcaptor Sakura Movie 2: The Sealed Card,8.21,"['Award Winning', 'Comedy', 'Drama', 'Mahou Shoujo', 'Romance', 'Shoujo']",1948
+7,Cardcaptor Sakura: Clear Card,7.66,"['Adventure', 'Comedy', 'Mahou Shoujo', 'Romance', 'Shoujo']",1849
+7,Cardcaptor Sakura: Clear Card Prologue – Sakura and the Two Bears,7.75,"['Mahou Shoujo', 'Romance', 'Shoujo']",3509
+5,Cardcaptor Sakura: Clear Card Recap,7.03,"['Adventure', 'Comedy', 'Mahou Shoujo', 'Romance', 'Shoujo']",7893
+4,Cardcaptor Sakura: Leave it to Kero! Theatrical Version,7.32,"['Comedy', 'Gourmet', 'Shoujo']",4142
+7,Cardfight!! Vanguard,7.03,"['Action', 'Strategy Game']",3106
+6,,6.74,"['Action', 'Strategy Game']",5787
+5,Cardfight!! Vanguard G,6.53,"['Action', 'Strategy Game']",5450
+5,,6.68,"['Action', 'Strategy Game']",6262
+6,,6.57,"['Action', 'Strategy Game']",6937
+5,Cardfight!! Vanguard G GIRS Crisis,6.68,"['Action', 'Strategy Game']",6242
+5,Cardfight!! Vanguard G Stride Gate,6.71,"['Action', 'Strategy Game']",6499
+5,,6.48,"['Action', 'Adventure', 'Comedy', 'Mythology', 'Parody', 'Strategy Game']",9113
+6,Cardfight!! Vanguard Asia Circuit,6.79,"['Action', 'Strategy Game']",4526
+5,Cardfight!! Vanguard Legion Mate,6.74,"['Action', 'Strategy Game']",5406
+7,Cardfight!! Vanguard Link Joker,7.15,"['Action', 'Strategy Game']",4703
+5,Cardfight!! Vanguard: Shinemon Arc,6.65,"['Action', 'Shounen', 'Strategy Game']",8811
+5,,6.35,"['Action', 'Strategy Game']",7785
+7,,7.87,"['Comedy', 'Parody', 'Supernatural']",1254
+6,,7.45,"['Comedy', 'Supernatural']",3292
+6,,7.32,"['Comedy', 'Supernatural']",3949
+9,Carole & Tuesday,7.85,"['Drama', 'Music', 'Sci-Fi']",751
+5,,6.61,"['Drama', 'Music', 'Romance', 'Sci-Fi']",8654
+7,Casshern Sins,7.5,"['Action', 'Adventure', 'Drama', 'Psychological', 'Sci-Fi']",1460
+4,C³ - CubexCursedxCurious,6.57,"['Action', 'Comedy', 'Ecchi', 'Harem', 'School', 'Supernatural']",1400
+7,,7.14,"['Action', 'Sci-Fi']",2129
+7,A Centaur's Life,6.42,"['Fantasy', 'School', 'Seinen', 'Slice of Life', 'Urban Fantasy']",2256
+5,Chain Chronicle: The Light of Haecceitas,6.54,"['Action', 'Adventure', 'Fantasy']",1815
+5,Chain Chronicle: The Light of Haecceitas Part 1,6.98,"['Action', 'Adventure', 'Fantasy']",4660
+5,Chain Chronicle: The Light of Haecceitas Part 2,6.98,"['Action', 'Adventure', 'Fantasy']",5425
+5,Chain Chronicle: The Light of Haecceitas Part 3,6.99,"['Action', 'Adventure', 'Fantasy']",5589
+9,Chainsaw Man,8.47,"['Action', 'Fantasy', 'Gore', 'Shounen', 'Urban Fantasy']",65
+4,Chance Pop Session,6.44,"['Drama', 'Idols (Female)', 'Music', 'Slice of Life']",8116
+3,Chaos Dragon,5.61,"['Action', 'Fantasy']",2034
 5,Charlotte,7.75,"['Drama', 'School', 'Super Power']",66
-6,Chobits,7.39,"['Comedy', 'Drama', 'Ecchi', 'Romance', 'Sci-Fi', 'Seinen']",479
-6,,7.6,"['Action', 'Comedy', 'Drama', 'Gourmet', 'Shounen']",5035
-0,Clannad,7.99,"['Drama', 'Romance', 'School']",91
-0,Clannad: After Story,8.93,"['Drama', 'Romance']",120
-0,Claymore,7.73,"['Action', 'Adventure', 'Fantasy', 'Gore', 'Shounen']",314
-0,Code Geass: Akito the Exiled - The Wyvern Arrives,7.33,"['Action', 'Mecha', 'Military', 'Sci-Fi']",1351
+6,Charlotte: The Strong Ones,7.49,"['Drama', 'School', 'Super Power']",1280
+3,ChäoS;Child,6.31,"['Gore', 'Mystery', 'Psychological', 'Sci-Fi', 'Supernatural', 'Suspense']",1750
+4,ChäoS;Child Episode 0,6.21,"['Mystery', 'Psychological', 'Sci-Fi', 'Supernatural']",4788
+3,ChäoS;HEAd,6.29,"['Mystery', 'Psychological', 'Sci-Fi', 'Supernatural', 'Suspense']",888
+5,Drug Store in Another World: The Slow Life of a Cheat Pharmacist,6.46,"['Comedy', 'Fantasy', 'Isekai']",1594
+3,Cheating Craft,5.38,"['Action', 'Comedy', 'School']",2714
+4,Cheer Boys!!,6.66,"['Adult Cast', 'Performing Arts', 'Sports']",2859
+3,,5.9,"['Performing Arts', 'School', 'Sports']",9023
+8,Chihayafuru,8.18,"['Drama', 'Josei', 'Love Polygon', 'School', 'Sports', 'Strategy Game']",499
+8,,8.38,"['Drama', 'Josei', 'Love Polygon', 'School', 'Sports', 'Strategy Game']",1057
+8,Chihayafuru 2 OVA,7.03,"['Comedy', 'Josei', 'School']",3491
+0,,8.46,"['Drama', 'Josei', 'Love Polygon', 'School', 'Sports', 'Strategy Game']",1657
+7,,6.81,"['Drama', 'Josei', 'School', 'Sports', 'Strategy Game']",6639
+3,Arjuna,6.77,"['Adventure', 'Drama', 'Sci-Fi']",3913
+8,Chio's School Road,7.45,"['Comedy', 'Seinen']",1890
+2,Chiruran 1/2,5.63,"['Action', 'Comedy', 'Historical']",7374
+5,,5.14,['Action'],11179
+3,,6.2,"['Comedy', 'Romance', 'School', 'Seinen']",4971
+4,The Wrong Way to Use Healing Magic,7.53,"['Action', 'Adventure', 'Fantasy', 'Isekai']",1016
+8,Chobits,7.39,"['Comedy', 'Drama', 'Ecchi', 'Romance', 'Sci-Fi', 'Seinen']",479
+3,Chobits: Hibiya and Kotoko Chat,6.93,"['Comedy', 'Drama', 'Ecchi', 'Romance', 'Sci-Fi']",3791
+4,Ai-Mai-Mi,5.82,['Comedy'],4193
+4,Ai-Mai-Mi Mousou Catastrophe,5.95,['Comedy'],5975
+4,,5.89,"['Comedy', 'Pets', 'Shoujo']",8334
+6,,6.75,"['Comedy', 'Drama', 'Ecchi', 'Romance']",4886
+6,Hyperdimension Neptunia,6.89,"['Action', 'Comedy', 'Fantasy', 'Parody', 'Sci-Fi']",1585
+4,Hyperdimension Neptunia: The Eternity (True Ending) Promised,7.22,"['Action', 'Comedy', 'Fantasy', 'Sci-Fi']",4043
+3,Dimension High School,5.11,"['Fantasy', 'School']",6763
+5,CHOYOYU!: High School Prodigies Have It Easy Even in Another World!,6.36,"['Action', 'Adventure', 'Fantasy', 'Isekai']",901
+3,Amazing Stranger,5.98,"['Comedy', 'Romance', 'Sci-Fi', 'Seinen']",5209
+5,Utakoi,7.42,"['Comedy', 'Historical', 'Josei', 'Romance']",4207
+6,Chrono Crusade,7.6,"['Action', 'Historical', 'Mythology', 'Romance', 'Shounen', 'Supernatural']",1118
+4,School Shock,5.84,"['Action', 'Comedy', 'Fantasy', 'Mecha', 'Romance', 'School', 'Sci-Fi']",5440
+4,Outburst Dreamer Boys,6.76,"['Comedy', 'School']",3332
+7,Mr. Tonegawa: Middle Management Blues,7.17,"['Adult Cast', 'Comedy', 'Drama', 'Parody', 'Psychological', 'Seinen', 'Workplace']",3576
+9,"Love, Chunibyo & Other Delusions!",7.7,"['Comedy', 'Romance', 'School']",99
+5,"Love, Chunibyo & Other Delusions! Depth of Field: Love and Hate Theater",6.75,"['Action', 'Mecha']",2365
+7,"Love, Chunibyo & Other Delusions!: Sparkling... Slapstick Noel",7.49,"['Comedy', 'Romance', 'School']",1085
+8,"Love, Chunibyo & Other Delusions!: Chuni-Shorts",7.26,"['Comedy', 'School']",1667
+6,"Love, Chunibyo & Other Delusions!: Heart Throb",7.55,"['Comedy', 'Romance', 'School']",273
+6,"Love, Chunibyo & Other Delusions!: Heart Throb Lite Shorts",7.18,"['Comedy', 'School']",2325
+5,"Love, Chunibyo & Other Delusions!: Heart Throb Specials",7.14,['Comedy'],2699
+6,"Love, Chunibyo & Other Delusions!: Heart Throb - The Rikka Wars",7.44,"['Comedy', 'Drama', 'Romance', 'School']",1722
+5,THE IDOLM@STER CINDERELLA GIRLS Theater,6.55,"['Comedy', 'Idols (Female)', 'Slice of Life']",5144
+5,,6.63,"['Comedy', 'Idols (Female)', 'Slice of Life']",6810
+6,,6.53,"['Comedy', 'Idols (Female)', 'Slice of Life']",7647
+1,Cipher,4.53,"['Avant Garde', 'Drama', 'Music', 'Shoujo', 'Showbiz']",6053
+3,,5.97,"['School', 'Sci-Fi', 'Sports']",5285
+4,Citrus,6.43,"['Drama', 'Girls Love', 'School']",439
+9,Clannad,7.99,"['Drama', 'Romance', 'School']",91
+10,Clannad: After Story,8.93,"['Drama', 'Romance']",120
+7,"Clannad: After Story - Another World, Kyou Chapter",7.77,"['Drama', 'Romance', 'School']",954
+7,"Clannad: Another World, Tomoyo Chapter",7.93,"['Drama', 'Romance', 'School']",828
+6,ClassicaLoid,6.41,"['Anthropomorphic', 'Comedy', 'Music']",4503
+5,ClassicaLoid 2,6.51,"['Anthropomorphic', 'Comedy', 'Music']",7476
+5,Classroom☆Crisis,6.96,"['Drama', 'Romance', 'School', 'Sci-Fi', 'Space']",1894
+10,Claymore,7.73,"['Action', 'Adventure', 'Fantasy', 'Gore', 'Shounen']",314
+5,Lights of the Clione,5.39,"['Drama', 'School']",5902
+3,Clockwork Planet,6.45,"['Fantasy', 'Sci-Fi']",1529
+5,,6.31,"['Action', 'Fantasy', 'Military', 'Sci-Fi']",6332
+7,Code Geass: Akito the Exiled - The Wyvern Arrives,7.33,"['Action', 'Mecha', 'Military', 'Sci-Fi']",1351
+7,Code Geass: Akito the Exiled - The Wyvern Divided,7.44,"['Action', 'Mecha', 'Military']",1715
+6,Code Geass: Akito the Exiled - The Brightness Falls,7.27,"['Action', 'Mecha', 'Military']",1956
+6,Code Geass: Akito the Exiled - Memories of Hatred,7.21,"['Action', 'Mecha', 'Military']",2099
+5,Code Geass: Akito the Exiled - To Beloved Ones,7.12,"['Action', 'Mecha', 'Military']",2296
+7,Code Geass: Rozé of the Recapture,6.56,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi', 'Super Power']",3440
+6,Code Geass: Lelouch of the Re;surrection,7.9,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi', 'Super Power']",780
 10,Code Geass: Lelouch of the Rebellion,8.7,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Military', 'School', 'Sci-Fi', 'Super Power']",22
-8,Code Geass: Lelouch of the Rebellion R2,8.91,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Military', 'Sci-Fi', 'Super Power']",47
-10,Cowboy Bebop,8.75,"['Action', 'Adult Cast', 'Award Winning', 'Sci-Fi', 'Space']",43
+4,Code Geass: Lelouch of the Rebellion - Nunnally in Wonderland,6.46,"['Comedy', 'Fantasy', 'Parody']",2673
+5,Code Geass: Lelouch of the Rebellion Picture Dramas,6.92,"['Comedy', 'School', 'Slice of Life']",3226
+10,Code Geass: Lelouch of the Rebellion R2,8.91,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Military', 'Sci-Fi', 'Super Power']",47
+5,Code Geass: Lelouch of the Rebellion R2 Special Edition - Zero Requiem,7.78,"['Action', 'Mecha', 'Military', 'Super Power']",3286
+5,Code Geass: Lelouch of the Rebellion Recaps,7.02,"['Action', 'Mecha', 'Military', 'School', 'Super Power']",3820
+5,Code Geass: Lelouch of the Rebellion Special Edition - Black Rebellion,7.58,"['Action', 'Mecha', 'Military', 'School', 'Super Power']",3572
+7,,6.4,"['Comedy', 'Romance', 'School', 'Sci-Fi']",5205
+6,Code:Breaker,6.71,"['Action', 'School', 'Shounen', 'Super Power']",736
+5,Code:Realize ~Guardian of Rebirth~,6.66,"['Fantasy', 'Historical', 'Josei', 'Reverse Harem', 'Romance']",2403
+8,Colorful: The Motion Picture,7.74,"['Award Winning', 'Drama', 'Reincarnation']",1244
+4,Comet Lucifer,5.83,"['Action', 'Adventure', 'Fantasy', 'Mecha']",2089
+7,,7.36,"['CGDCT', 'Otaku Culture', 'Slice of Life']",1660
+5,Comic Party: Revolution,6.45,"['Comedy', 'Drama', 'Otaku Culture']",6541
+5,,6.38,"['Comedy', 'Otaku Culture']",9685
+2,,4.58,"['Action', 'Comedy', 'Fantasy', 'Harem', 'Isekai', 'Parody', 'Romance']",1808
+7,Concrete Revolutio,6.64,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Mythology', 'Sci-Fi', 'Super Power']",2309
+7,Concrete Revolutio The Last Song,6.98,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Mythology', 'Sci-Fi', 'Super Power']",3853
+3,,6.71,"['Action', 'Detective', 'Fantasy', 'Mystery', 'Sci-Fi', 'Urban Fantasy']",1892
+3,,5.85,"['Action', 'Detective', 'Fantasy', 'Mystery', 'Sci-Fi', 'Urban Fantasy']",8208
+5,Coppelion,6.47,"['Action', 'Drama', 'Military', 'Sci-Fi', 'Seinen']",1901
+3,,5.96,"['Horror', 'School']",1675
+6,Corpse Party: Tortured Souls,6.42,"['Gore', 'Horror', 'Mystery']",631
+6,Le Portrait de Petit Cossette,6.78,"['Drama', 'Gore', 'Horror', 'Psychological', 'Romance', 'Supernatural', 'Visual Arts']",2622
+9,Cowboy Bebop,8.75,"['Action', 'Adult Cast', 'Award Winning', 'Sci-Fi', 'Space']",43
 8,Cowboy Bebop: The Movie,8.38,"['Action', 'Adult Cast', 'Sci-Fi', 'Space']",635
-8,,7.31,"['School', 'Slice of Life']",2556
+6,,6.62,"['Action', 'Adventure', 'Comedy', 'Mecha', 'Sci-Fi']",4925
+5,Cross Ange: Rondo of Angel and Dragon,7.38,"['Action', 'Fantasy', 'Gore', 'Mecha', 'Military', 'Sci-Fi']",1195
+8,Cross Game,8.37,"['Drama', 'Romance', 'School', 'Shounen', 'Sports', 'Team Sports']",1847
+7,,7.31,"['School', 'Slice of Life']",2556
+5,Glass Maiden,6.11,"['Action', 'Detective', 'Mystery', 'Sci-Fi']",5407
+5,,5.44,"['Action', 'Comedy', 'Ecchi', 'Romance', 'Sci-Fi', 'Shounen']",5072
+2,,5.71,"['Comedy', 'Ecchi', 'School', 'Slice of Life']",3447
+7,D-Frag!,7.5,"['Comedy', 'School', 'Seinen', 'Strategy Game']",613
+6,,7.32,"['Comedy', 'Seinen']",2838
+5,,6.66,"['Drama', 'Harem', 'Romance']",7919
+6,D.C.~Da Capo~,6.71,"['Drama', 'Harem', 'Romance']",2582
+5,,7.11,"['Drama', 'Harem', 'Romance']",5523
+7,,7.16,"['Comedy', 'Drama', 'Fantasy', 'Harem', 'Romance']",4216
+7,,6.85,"['Drama', 'Ecchi', 'Romance', 'School']",3835
+4,,6.5,"['Drama', 'Ecchi', 'Harem', 'Romance', 'School']",4180
+3,,6.34,"['Drama', 'Music', 'Romance', 'School']",8370
+7,D.C.S.S. ~Da Capo Second Season~,6.93,"['Comedy', 'Drama', 'Harem', 'Romance', 'Supernatural']",3991
+7,D.Gray-man,8.0,"['Action', 'Adventure', 'Fantasy', 'Shounen', 'Urban Fantasy']",301
+8,D.Gray-man HALLOW,7.68,"['Action', 'Adventure', 'Fantasy', 'Shounen', 'Urban Fantasy']",1306
+6,D.N.Angel,7.16,"['Action', 'Comedy', 'Fantasy', 'Romance', 'School', 'Shoujo']",1354
+7,Dagashi Kashi,6.6,"['Comedy', 'Gourmet', 'Shounen']",502
+6,Dagashi Kashi 2,6.82,"['Comedy', 'Gourmet', 'Shounen']",1425
+4,A Good Librarian Like a Good Shepherd,6.84,"['Harem', 'Romance', 'School']",1706
+3,"So, I Can't Play H! Episode 13",6.62,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School', 'Supernatural']",2809
+2,"So, I Can't Play H! Recap",6.45,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School', 'Supernatural']",4479
+4,Damepri Anime Caravan,6.5,"['Adventure', 'Comedy', 'Fantasy', 'Parody', 'Reverse Harem']",4213
+7,Dance Dance Danseur,7.82,"['Drama', 'Performing Arts', 'Seinen']",2386
+5,Dance in the Vampire Bund,6.97,"['Action', 'Drama', 'Romance', 'Seinen', 'Supernatural', 'Vampire']",1092
+4,Dance with Devils,6.19,"['Mythology', 'Reverse Harem', 'Romance', 'School', 'Supernatural', 'Vampire']",1803
+5,Danchigai,6.48,"['Iyashikei', 'Slice of Life']",1930
+4,,6.43,"['Iyashikei', 'Slice of Life']",4749
+9,Dan Da Dan,8.6,"['Action', 'Comedy', 'Shounen', 'Supernatural']",388
+5,Danganronpa 3: The End of Hope's Peak High School - Hope Arc,7.39,"['Action', 'High Stakes Game', 'Horror', 'Mystery', 'Psychological', 'Survival', 'Suspense']",1350
+5,Danganronpa 3: The End of Hope's Peak High School - Future Arc,7.21,"['Action', 'High Stakes Game', 'Horror', 'Mystery', 'Psychological', 'Survival', 'Suspense']",683
+5,Danganronpa 3: The End of Hope's Peak High School - Despair Arc,7.35,"['Action', 'High Stakes Game', 'Horror', 'Mystery', 'Psychological', 'School', 'Survival', 'Suspense']",764
 5,Danganronpa: The Animation,7.2,"['High Stakes Game', 'Horror', 'Mystery', 'Psychological', 'School', 'Survival', 'Suspense']",181
 6,I Can't Understand What My Husband Is Saying,7.27,"['Adult Cast', 'Comedy', 'Otaku Culture', 'Romance']",688
-8,Darker than Black,8.05,"['Action', 'Mystery', 'Sci-Fi', 'Super Power']",177
-8,Darker Than Black: Gemini of the Meteor OVAs,7.9,"['Action', 'Mystery', 'Sci-Fi', 'Super Power']",984
+5,The Severing Crime Edge,6.66,"['Action', 'Fantasy', 'Gore', 'High Stakes Game', 'Romance', 'Seinen', 'Survival', 'Suspense']",2011
+5,Daily Lives of High School Boys,8.23,"['Comedy', 'Gag Humor', 'School']",227
+7,The Mystic Archives of Dantalian,7.22,"['Action', 'Detective', 'Historical', 'Mystery', 'Supernatural']",1604
+6,The Mystic Archives of Dantalian: Ibarahime,7.13,"['Action', 'Detective', 'Historical', 'Mystery']",4861
+6,Someone's Gaze,7.31,['Slice of Life'],2678
+7,Dark Gathering,7.84,"['Gore', 'Horror', 'Shounen', 'Supernatural']",1570
+9,Darker than Black,8.05,"['Action', 'Mystery', 'Sci-Fi', 'Super Power']",177
+7,Darker Than Black: Gemini of the Meteor OVAs,7.9,"['Action', 'Mystery', 'Sci-Fi', 'Super Power']",984
 6,Darker than Black: Gemini of the Meteor,7.42,"['Action', 'Mystery', 'Sci-Fi', 'Super Power']",578
-4,Deadman Wonderland,7.14,"['Action', 'Gore', 'High Stakes Game', 'Sci-Fi', 'Shounen', 'Supernatural', 'Survival', 'Suspense']",113
+5,DARLING in the FRANXX,7.19,"['Action', 'Drama', 'Mecha', 'Romance', 'Sci-Fi']",60
+3,Darwin's Game,7.21,"['Action', 'High Stakes Game', 'Mystery', 'Sci-Fi', 'Shounen', 'Super Power', 'Survival', 'Suspense']",394
+4,,6.6,"['Action', 'High Stakes Game', 'Mystery', 'Sci-Fi', 'Shounen', 'Super Power', 'Survival', 'Suspense']",5258
+6,Date A Live,7.15,"['Action', 'Fantasy', 'Harem', 'Romance', 'School', 'Sci-Fi']",154
+3,Date A Live II,7.18,"['Action', 'Fantasy', 'Harem', 'Romance', 'School', 'Sci-Fi']",336
+6,,7.9,['Romance'],1315
+3,Date A Live III,7.19,"['Action', 'Fantasy', 'Harem', 'Romance', 'School', 'Sci-Fi']",587
+5,Date A Live IV,7.75,"['Action', 'Fantasy', 'Harem', 'Romance', 'School', 'Sci-Fi']",948
+6,Date A Live Movie: Mayuri Judgement,7.32,"['Action', 'Fantasy', 'Harem', 'Romance', 'Sci-Fi']",1196
+7,Date A Live V,7.69,"['Action', 'Fantasy', 'Harem', 'Romance', 'School', 'Sci-Fi']",1920
+3,,7.31,"['Harem', 'Romance', 'School', 'Sci-Fi']",1207
+6,Days,7.16,"['School', 'Shounen', 'Sports', 'Team Sports']",1655
+3,DD Fist of the North Star 2: Strawberry Flavor Plus,5.91,"['Comedy', 'Parody', 'School', 'Seinen']",9623
+5,Dead Mount Death Play,7.28,"['Action', 'Fantasy', 'Reincarnation', 'Seinen', 'Urban Fantasy']",1006
+5,,7.45,"['Action', 'Fantasy', 'Reincarnation', 'Seinen', 'Urban Fantasy']",1850
+6,Deadman Wonderland,7.14,"['Action', 'Gore', 'High Stakes Game', 'Sci-Fi', 'Shounen', 'Supernatural', 'Survival', 'Suspense']",113
+4,Deadman Wonderland: The Red Knife Wielder,6.91,"['Action', 'Horror', 'Sci-Fi', 'Shounen']",1747
+7,Deaimon: Recipe for Happiness,7.55,"['Childcare', 'Seinen', 'Slice of Life', 'Workplace']",2176
+7,Hoop Days,6.77,"['Drama', 'Shounen', 'Sports', 'Team Sports']",4825
 7,Death Billiards,7.87,"['Adult Cast', 'Drama', 'Fantasy', 'High Stakes Game', 'Psychological', 'Suspense']",1045
+2,Death March to the Parallel World Rhapsody,6.44,"['Adventure', 'Fantasy', 'Harem', 'Isekai']",443
 9,Death Note,8.62,"['Psychological', 'Shounen', 'Supernatural', 'Suspense']",2
 9,Death Parade,8.14,"['Adult Cast', 'Drama', 'Fantasy', 'High Stakes Game', 'Psychological', 'Suspense']",48
-0,Denki-gai,7.18,"['Comedy', 'Otaku Culture', 'Seinen', 'Workplace']",1792
-6,Digimon Adventure 02,7.24,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Isekai', 'Kids']",1136
-8,Digimon: The Movie,7.6,"['Action', 'Fantasy', 'Kids', 'Sci-Fi']",1990
-6,Dragon Ball,7.97,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen']",148
-6,Dragon Ball Z,8.19,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen']",114
-0,DRAMAtical Murder,6.04,"['Action', 'Mystery', 'Psychological', 'Sci-Fi', 'Super Power', 'Suspense', 'Video Game']",1459
-6,Drifters,7.88,"['Action', 'Adult Cast', 'Adventure', 'Comedy', 'Fantasy', 'Gore', 'Historical', 'Isekai', 'Military', 'Samurai', 'Seinen']",388
-5,Is It Wrong to Try to Pick Up Girls in a Dungeon?,7.53,"['Action', 'Adventure', 'Fantasy']",75
+3,Battle Game in 5 Seconds,6.76,"['Action', 'High Stakes Game', 'Strategy Game', 'Super Power', 'Survival', 'Suspense']",1172
+8,,7.35,"['Action', 'Adventure', 'Sci-Fi']",827
+3,Deep Insanity: The Lost Child,5.6,"['Action', 'Sci-Fi']",3463
+8,The Masterful Cat Is Depressed Again Today,7.65,"['Adult Cast', 'Anthropomorphic', 'Comedy']",2036
+4,The Banished Former Hero Lives as He Pleases,5.2,"['Action', 'Adventure', 'Fantasy']",2529
+5,The Family Circumstances of the Irregular Witch,6.77,"['Comedy', 'Fantasy', 'Gag Humor']",2984
+7,Interviews With Monster Girls,7.52,"['Comedy', 'Fantasy', 'Mythology', 'School', 'Seinen', 'Urban Fantasy', 'Vampire']",568
+7,Interviews With Monster Girls: The Demi-chans' Summer Break,7.48,"['Comedy', 'Fantasy', 'Mythology', 'School', 'Seinen', 'Urban Fantasy', 'Vampire']",2410
+6,Denki-gai,7.18,"['Comedy', 'Otaku Culture', 'Seinen', 'Workplace']",1792
+8,Den-noh Coil,8.03,"['Adventure', 'Award Winning', 'Drama', 'Mystery', 'Sci-Fi']",1621
+5,,6.22,"['Adventure', 'Comedy', 'Drama', 'Mystery', 'Sci-Fi']",10861
+4,Ultimate Otaku Teacher,6.86,"['Comedy', 'Otaku Culture', 'Romance', 'School', 'Shounen']",1565
+4,Ground Control to Psychoelectric Girl,7.11,"['Comedy', 'Sci-Fi']",820
+4,Ground Control to Psychoelectric Girl Special,7.28,"['Comedy', 'Sci-Fi']",2919
+7,Electromagnetic Girlfriend,7.48,"['Mystery', 'School', 'Suspense']",1624
+7,The Legend of the Legendary Heroes,7.5,"['Action', 'Adventure', 'Fantasy', 'Military']",824
+7,Detroit Metal City,8.09,"['Adult Cast', 'Comedy', 'Gag Humor', 'Music', 'Parody', 'Seinen', 'Showbiz']",1185
+5,Detroit Metal City: Birth of the Metal Devil,7.28,"['Adult Cast', 'Comedy', 'Gag Humor', 'Music', 'Parody', 'Seinen', 'Showbiz']",4693
+6,Devil May Cry,6.93,"['Action', 'Fantasy', 'Gore', 'Mythology']",805
+5,Devil Survivor 2 The Animation,6.83,"['Action', 'Mythology', 'Supernatural', 'Survival', 'Suspense']",1473
+7,Devilman: Crybaby,7.75,"['Action', 'Avant Garde', 'Gore', 'Horror', 'Mythology', 'Shounen', 'Supernatural']",123
+4,Devils' Line,6.83,"['Action', 'Adult Cast', 'Drama', 'Romance', 'Seinen', 'Supernatural', 'Vampire']",915
+2,Diabolik Lovers,5.18,"['Drama', 'Josei', 'Reverse Harem', 'School', 'Supernatural', 'Vampire']",694
+2,"Diabolik Lovers II: More,Blood",5.52,"['Drama', 'Josei', 'Reverse Harem', 'School', 'Supernatural', 'Vampire']",1517
+2,,5.7,"['Drama', 'Josei', 'Reverse Harem', 'School', 'Supernatural', 'Vampire']",3692
+2,,5.42,"['Drama', 'Josei', 'Reverse Harem', 'Supernatural', 'Vampire']",4577
+8,Ace of Diamond,8.11,"['School', 'Shounen', 'Sports', 'Team Sports']",1020
+8,Ace of Diamond Act II,8.27,"['School', 'Shounen', 'Sports', 'Team Sports']",2282
+8,Ace of Diamond: Second Season,8.3,"['School', 'Shounen', 'Sports', 'Team Sports']",1698
+3,Dies irae,5.39,"['Action', 'Military', 'Super Power']",1670
+3,Dies irae: The Dawning Days,5.35,"['Action', 'Super Power']",4568
+3,,5.99,"['Action', 'Super Power']",4713
+8,Digimon: Digital Monsters,7.78,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Isekai', 'Kids']",595
+7,Digimon Adventure 02,7.24,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Isekai', 'Kids']",1136
+7,Digimon: The Movie,7.6,"['Action', 'Fantasy', 'Kids', 'Sci-Fi']",1990
+8,Digimon Adventure tri. Reunion,7.43,"['Action', 'Adventure', 'Comedy', 'Drama']",1986
+8,Digimon Adventure tri. Determination,7.44,"['Action', 'Adventure', 'Comedy', 'Drama']",2469
+6,Digimon Adventure tri. Confession,7.61,"['Action', 'Adventure', 'Comedy', 'Drama']",2612
+6,Digimon Adventure tri. Loss,7.28,"['Action', 'Adventure', 'Comedy', 'Drama']",2974
+6,Digimon Adventure tri. Coexistence,7.16,"['Action', 'Adventure', 'Comedy', 'Drama']",3190
+6,Digimon Adventure tri. Future,7.21,"['Action', 'Adventure', 'Comedy', 'Drama']",3347
+7,,6.48,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Isekai', 'Kids']",3023
+5,Digimon Frontier,7.16,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Isekai']",1548
+5,Digimon Frontier: Island of Lost Digimon,6.83,"['Adventure', 'Comedy', 'Drama', 'Fantasy']",4943
+6,Digimon Ghost Game,6.74,"['Action', 'Adventure', 'Comedy', 'Fantasy']",4684
+5,Digimon Data Squad,6.96,"['Adventure', 'Comedy', 'Drama', 'Fantasy']",2336
+9,Digimon Tamers,7.64,"['Adventure', 'Comedy', 'Fantasy', 'Isekai']",1248
+6,Digimon Universe App Monsters,6.61,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Kids', 'Sci-Fi']",5543
+5,Digimon Fusion,6.68,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Isekai']",3217
+6,Digimon Fusion,7.09,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Isekai']",4319
+5,Digimon Fusion,6.41,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Isekai']",4427
+8,Dimension W,7.18,"['Action', 'Sci-Fi', 'Seinen']",849
+5,Dimension W: Do Robots Dream of Bath Houses?,6.63,"['Sci-Fi', 'Seinen']",5222
+4,DIVE!!,6.08,"['Drama', 'Sports']",3157
+3,Divine Gate,5.52,"['Action', 'Fantasy', 'Sci-Fi', 'Urban Fantasy']",1466
+5,,6.84,"['Action', 'Adventure', 'Fantasy', 'Isekai']",1322
+5,,6.98,"['Action', 'Adventure', 'Fantasy', 'Isekai']",2101
+6,,6.85,"['Action', 'Adventure', 'Fantasy', 'Isekai']",2602
+6,,7.28,"['Action', 'Adult Cast', 'Drama', 'Gore', 'Organized Crime', 'Sci-Fi', 'Seinen']",2927
+3,Girls' Frontline,5.87,"['Action', 'Drama', 'Military', 'Sci-Fi']",3158
+3,Domestic Girlfriend,6.64,"['Drama', 'Love Polygon', 'Romance', 'School', 'Shounen']",262
+8,Laughing Under the Clouds,7.46,"['Action', 'Historical', 'Shoujo', 'Supernatural']",1796
+3,,5.93,"['Adult Cast', 'Drama', 'High Stakes Game', 'Psychological', 'Suspense']",2881
+8,,8.05,"['Action', 'Comedy', 'Fantasy', 'Gore', 'Horror', 'Seinen']",397
+9,Dororo,8.25,"['Action', 'Adventure', 'Fantasy', 'Historical', 'Mythology', 'Samurai', 'Shounen']",107
+8,Hokkaido Gals Are Super Adorable!,7.03,"['Comedy', 'Love Status Quo', 'Romance', 'School', 'Shounen']",1388
+7,Double Decker! Doug & Kirill,6.81,"['Action', 'Adult Cast', 'Comedy', 'Detective', 'Mystery', 'Sci-Fi']",3840
+6,,7.13,"['Action', 'Adult Cast', 'Comedy', 'Detective', 'Mystery', 'Sci-Fi']",7546
+3,,5.46,"['Comedy', 'School', 'Shounen']",6153
+5,Dojin Work,6.75,"['Comedy', 'Otaku Culture', 'Slice of Life']",4343
+8,My Roommate is a Cat,7.72,"['Adult Cast', 'Pets', 'Slice of Life']",1255
+9,Dr. Stone,8.27,"['Adventure', 'Comedy', 'Sci-Fi', 'Shounen', 'Survival']",50
+7,,8.15,"['Adventure', 'Comedy', 'Sci-Fi', 'Shounen']",459
+7,,8.33,"['Adventure', 'Comedy', 'Sci-Fi', 'Shounen']",775
+7,Dr. Stone: Ryusui,8.15,"['Adventure', 'Comedy', 'Sci-Fi', 'Shounen']",786
+8,,8.16,"['Adventure', 'Comedy', 'Sci-Fi', 'Shounen', 'Survival']",145
+7,Dragon Ball,7.97,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen']",148
+6,Dragon Ball GT,6.5,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen']",347
+6,Dragon Ball Z Kai,7.76,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen']",602
+5,Dragon Ball Z Kai: The Final Chapters,7.71,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen']",1259
+6,Dragon Ball Super,7.46,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen']",217
+7,Dragon Ball Z,8.19,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen']",114
+5,Dragon Ball Z: The World's Strongest,6.57,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi', 'Shounen']",1954
+6,Dragon Ball Z: The Tree of Might,6.69,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi', 'Shounen']",1693
+5,Dragon Ball Z: Cooler's Revenge,7.07,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi', 'Shounen']",1580
+6,Dragon Ball Z: The Return of Cooler,6.78,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi', 'Shounen']",1783
+7,Dragon Ball Z: Super Android 13!,6.83,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi', 'Shounen']",1828
+6,Dragon Ball Z: Battle of Gods,7.41,"['Action', 'Adventure', 'Fantasy', 'Martial Arts', 'Shounen']",1119
+5,,6.61,"['Action', 'Fantasy', 'Harem', 'Romance', 'School']",1421
+0,Dragon Quest: The Adventure of Dai,7.73,"['Action', 'Adventure', 'Fantasy', 'Shounen']",2606
+6,Dragon Goes House-Hunting,6.42,"['Comedy', 'Fantasy', 'Shounen']",2843
+5,Dragonaut - The Resonance,6.57,"['Action', 'Drama', 'Fantasy', 'Mecha', 'Romance', 'Sci-Fi']",2553
+1,,6.78,"['Action', 'Mecha', 'Romance', 'Sci-Fi', 'Space']",6766
+4,Dream Festival!,6.67,"['Idols (Male)', 'Music']",5795
+3,,6.84,"['Idols (Male)', 'Music']",8561
+7,Drifters,7.88,"['Action', 'Adult Cast', 'Adventure', 'Comedy', 'Fantasy', 'Gore', 'Historical', 'Isekai', 'Military', 'Samurai', 'Seinen']",389
+7,,7.64,"['Action', 'Adult Cast', 'Adventure', 'Comedy', 'Fantasy', 'Gore', 'Historical', 'Isekai', 'Military', 'Samurai', 'Seinen']",3945
+7,Tower of Druaga: The Aegis of Uruk,7.12,"['Action', 'Adventure', 'Fantasy']",1919
+7,Tower of Druaga: The Sword of Uruk,7.18,"['Action', 'Adventure', 'Fantasy']",2591
+5,Dual! Parallel Trouble Adventure,7.05,"['Action', 'Comedy', 'Harem', 'Isekai', 'Mecha', 'Sci-Fi']",5130
+5,How Heavy Are the Dumbbells You Lift?,7.23,"['CGDCT', 'Comedy', 'Ecchi']",594
+8,Delicious in Dungeon,8.61,"['Adventure', 'Comedy', 'Fantasy', 'Gourmet', 'Seinen']",567
+6,Is It Wrong to Try to Pick Up Girls in a Dungeon?,7.53,"['Action', 'Adventure', 'Fantasy']",75
+5,Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side,7.08,"['Action', 'Adventure', 'Fantasy']",504
+5,Is It Wrong to Try to Pick Up Girls in a Dungeon? II,7.24,"['Action', 'Adventure', 'Fantasy']",222
+5,Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Past & Future,6.88,"['Action', 'Adventure', 'Fantasy']",2977
+5,Is It Wrong to Try to Pick Up Girls in a Dungeon? III,7.46,"['Action', 'Adventure', 'Fantasy']",357
+5,Is It Wrong to Try to Pick Up Girls in a Dungeon? IV,7.74,"['Action', 'Adventure', 'Fantasy']",678
+7,Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2,8.25,"['Action', 'Adventure', 'Fantasy']",1022
+5,Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?,7.04,"['Adventure', 'Comedy', 'Ecchi', 'Fantasy']",1379
+6,Dungeon People,7.11,"['Adventure', 'Comedy', 'Fantasy']",3628
 8,Durarara!!,8.09,"['Action', 'Mystery', 'Supernatural']",93
-0,Durarara!! x2 Shou,7.97,"['Action', 'Mystery', 'Supernatural']",478
-6,Elfen Lied,7.46,"['Action', 'Drama', 'Gore', 'Horror', 'Psychological', 'Romance', 'Seinen', 'Super Power', 'Suspense']",77
-5,Elemental Gelade,7.23,"['Action', 'Adventure', 'Fantasy', 'Romance', 'Shounen', 'Super Power']",2230
-10,Eromanga Sensei,6.33,"['Comedy', 'Ecchi', 'Otaku Culture', 'Romance']",288
-0,Atelier Escha & Logy: Alchemists of the Dusk Sky,6.42,['Fantasy'],2875
-8,Evangelion: 1.0 You Are (Not) Alone,8.0,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",393
-10,Evangelion: 2.0 You Can (Not) Advance,8.3,"['Action', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",419
-8,Evangelion: 3.0 You Can (Not) Redo,7.65,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",515
-8,Time of Eve,7.99,"['Sci-Fi', 'Slice of Life']",1339
-6,,7.91,"['Shounen', 'Sports', 'Team Sports']",1346
-6,Fairy Tail,7.57,"['Action', 'Adventure', 'Fantasy', 'Shounen']",54
-6,Fate/stay night,7.27,"['Action', 'Fantasy', 'Romance', 'Urban Fantasy']",180
+6,Durarara!! Specials,7.84,"['Action', 'Comedy', 'Supernatural']",1464
+8,Durarara!! x2 Ketsu,8.05,"['Action', 'Mystery', 'Supernatural']",640
+7,Durarara!! x2 Ketsu: Dufufufu!!,7.55,"['Action', 'Mystery', 'Supernatural']",3057
+8,Durarara!! x2 Shou,7.97,"['Action', 'Mystery', 'Supernatural']",478
+7,Durarara!! x2 Ten,7.96,"['Action', 'Mystery', 'Supernatural']",607
+7,Durarara!!x2 Ten Episode 13.5,7.52,"['Action', 'Mystery', 'Supernatural']",3125
+3,Dynamic Chord,4.66,['Music'],6711
+3,D_Cide Traumerei the Animation,5.81,"['Action', 'Drama', 'Fantasy']",4625
+6,A Friend Who Was Good at Drawing,5.6,['Music'],13427
+5,E's Otherwise,6.58,"['Action', 'Adventure', 'Drama', 'Military', 'Sci-Fi', 'Shounen', 'Super Power']",5416
+4,Ebiten,6.17,"['Comedy', 'Ecchi', 'Parody', 'School', 'Shounen']",4430
+5,Edens Zero,7.27,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Shounen', 'Space']",953
+6,Edens Zero Season 2,7.43,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Shounen', 'Space']",2637
+5,Otaku Elf,7.26,"['Comedy', 'Fantasy', 'Otaku Culture', 'Shounen', 'Urban Fantasy']",2774
+8,ef - a tale of melodies.,7.98,"['Drama', 'Mystery', 'Romance', 'Supernatural']",1496
+5,,7.22,['Music'],5155
+6,ef - a tale of memories.,7.87,"['Drama', 'Mystery', 'Romance']",991
+6,ef ~ A Tale of Melodies - Recollections,7.26,"['Drama', 'Mystery', 'Romance']",5906
+4,The Price of Smiles,6.03,"['Action', 'Drama', 'Fantasy', 'Mecha', 'Military', 'Sci-Fi']",3774
+6,Emma: A Victorian Romance,7.61,"['Adult Cast', 'Drama', 'Historical', 'Romance', 'Seinen']",2949
+2,Emma: A Victorian Romance - Intermission,7.02,"['Adult Cast', 'Drama', 'Historical', 'Romance', 'Seinen']",8305
+6,Emma: A Victorian Romance Season Two,7.8,"['Adult Cast', 'Drama', 'Historical', 'Romance', 'Seinen']",4360
+5,Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀,6.56,"['Action', 'Fantasy', 'Reincarnation']",1546
+8,Keep Your Hands Off Eizouken!,8.13,"['Adventure', 'Award Winning', 'Comedy', 'Otaku Culture', 'School', 'Seinen']",721
+7,El Cazador de la Bruja,7.2,"['Adventure', 'Drama', 'Mystery']",3068
+10,Elfen Lied,7.46,"['Action', 'Drama', 'Gore', 'Horror', 'Psychological', 'Romance', 'Seinen', 'Super Power', 'Suspense']",77
+8,"Elfen Lied: In the Passing Rain, or, How Can a Girl Have Reached Such Feelings?",7.13,"['Drama', 'Ecchi', 'Gore', 'Horror', 'Psychological', 'Seinen', 'Super Power', 'Suspense']",1276
+8,Today's Menu for the Emiya Family,7.79,"['Gourmet', 'Iyashikei', 'Slice of Life']",1743
+3,Endride,5.58,"['Action', 'Adventure', 'Fantasy', 'Isekai']",2601
+8,ENDRO!,6.9,"['CGDCT', 'Fantasy', 'Slice of Life']",2545
+4,Fire Force,7.71,"['Action', 'Fantasy', 'Sci-Fi', 'Shounen', 'Urban Fantasy']",97
+6,Fire Force Season 2,7.82,"['Action', 'Fantasy', 'Sci-Fi', 'Shounen', 'Urban Fantasy']",250
+5,Engage Kiss,6.79,"['Action', 'Comedy', 'Love Polygon', 'Romance']",1023
+4,,6.94,"['Idols (Male)', 'Music', 'School']",3282
+9,Elemental Gelade,7.23,"['Action', 'Adventure', 'Fantasy', 'Romance', 'Shounen', 'Super Power']",2230
+8,Ergo Proxy,7.9,"['Adult Cast', 'Mystery', 'Psychological', 'Sci-Fi', 'Suspense']",324
+4,Eromanga Sensei,6.33,"['Comedy', 'Ecchi', 'Otaku Culture', 'Romance']",288
+5,Eromanga Sensei OVA,6.79,"['Comedy', 'Ecchi', 'Otaku Culture', 'Romance']",1945
+6,Atelier Escha & Logy: Alchemists of the Dusk Sky,6.42,['Fantasy'],2875
+5,Etotama,6.78,"['Action', 'Comedy', 'Fantasy', 'Gag Humor']",2506
+3,,6.46,"['Action', 'Comedy', 'Fantasy']",7232
+5,,6.64,"['Action', 'Adventure', 'Drama', 'Mecha', 'Sci-Fi']",2219
+1,,6.25,"['Action', 'Adventure', 'Drama', 'Mecha', 'Sci-Fi']",6412
+7,Evangelion: 1.0 You Are (Not) Alone,8.0,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",393
+8,Evangelion: 2.0 You Can (Not) Advance,8.3,"['Action', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",419
+7,Evangelion: 3.0 You Can (Not) Redo,7.65,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",515
+7,Time of Eve,7.99,"['Sci-Fi', 'Slice of Life']",1339
+3,Evil or Live,5.78,"['Gore', 'Horror', 'Psychological', 'School', 'Survival', 'Suspense']",2482
+2,,5.19,"['Gore', 'Psychological', 'School', 'Survival', 'Suspense']",9203
+3,Fairy Gone,5.8,"['Action', 'Adult Cast', 'Fantasy', 'Military']",1455
+4,Fairy gone Season 1 Part 2,6.35,"['Action', 'Adult Cast', 'Fantasy', 'Military']",3278
+4,,5.9,"['Action', 'Fantasy', 'Slice of Life']",4583
+8,Fairy Tail,7.57,"['Action', 'Adventure', 'Fantasy', 'Shounen']",54
+6,Fairy Tail Series 2,7.65,"['Action', 'Adventure', 'Fantasy', 'Shounen']",160
+5,Fairy Tail the Movie: The Phoenix Priestess,7.38,"['Action', 'Adventure', 'Fantasy', 'Shounen']",1158
+7,Fairy Tail the Movie: The Phoenix Priestess - The First Morning,7.33,"['Fantasy', 'Shounen']",2317
+5,Fairy Tail the Movie 2: Dragon Cry,7.55,"['Action', 'Adventure', 'Fantasy', 'Shounen']",1270
+5,,7.46,"['Comedy', 'Ecchi', 'Fantasy', 'Shounen']",1479
+7,,7.14,"['Action', 'Adventure', 'Fantasy', 'Shounen']",1840
+6,Fairy Tail: 100 Years Quest,7.66,"['Action', 'Adventure', 'Fantasy', 'Shounen']",1643
+5,Fairy Tail Final Series,7.61,"['Action', 'Adventure', 'Fantasy', 'Shounen']",441
+5,Fantasista Doll,6.15,"['Fantasy', 'Sci-Fi']",4434
+6,Fantastic Children,7.5,"['Adventure', 'Fantasy', 'Mystery', 'Romance', 'Sci-Fi', 'Suspense']",3957
+5,,6.92,['Slice of Life'],11586
+5,Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout,7.13,"['Adventure', 'Comedy', 'Fantasy', 'Isekai', 'Magical Sex Shift', 'Parody']",1341
+4,,7.19,"['Action', 'Fantasy', 'Urban Fantasy']",481
+5,,6.47,"['Action', 'Drama', 'Fantasy', 'Historical']",5293
+4,Fate/Extra: Last Encore,6.3,"['Action', 'Fantasy']",1135
+3,Fate/Extra: Last Encore - Illustrias Geocentric Theory,6.52,"['Action', 'Fantasy']",2559
+7,Fate/Grand Order -First Order-,6.73,"['Action', 'Fantasy', 'Time Travel']",1126
+6,,6.32,"['Action', 'Fantasy']",2944
+8,Fate/Grand Order: Absolute Demonic Front - Babylonia,7.94,"['Action', 'Fantasy', 'Isekai']",886
+6,Fate/Grand Order: Absolute Demonic Front - Babylonia Initium Iter,7.14,"['Action', 'Fantasy']",2677
+7,Fate/Kaleid Liner Prisma Illya,7.01,"['Action', 'Comedy', 'Mahou Shoujo']",905
+6,Fate/Kaleid Liner Prisma Illya 2Wei Herz!,7.16,"['Action', 'Comedy', 'Mahou Shoujo']",1649
+7,Fate/Kaleid Liner Prisma Illya 2Wei!,7.2,"['Action', 'Comedy', 'Mahou Shoujo']",1486
+3,Fate/kaleid liner Prisma Illya 2Wei!: Magical Girl in Hot Springs Inn,6.96,"['Comedy', 'Ecchi', 'Fantasy']",3529
+7,Fate/kaleid liner Prisma Illya 3rei!!,7.48,"['Action', 'Comedy', 'Mahou Shoujo']",1791
+7,Fate/kaleid liner Prisma Illya: Vow in the Snow,7.92,"['Action', 'Fantasy']",2203
+3,Fate/Kaleid Liner Prisma Illya Shorts,6.73,"['Comedy', 'Ecchi', 'Mahou Shoujo']",3390
+5,Fate/Kaleid Liner Prisma Illya: Dance at the Sports Festival!,6.66,"['Comedy', 'Fantasy']",3124
+8,,6.63,"['Action', 'Fantasy', 'Romance', 'Urban Fantasy']",1998
+5,Fate/stay night,7.27,"['Action', 'Fantasy', 'Romance', 'Urban Fantasy']",180
+8,Fate/stay night: Heaven's Feel - I. Presage Flower,8.15,"['Action', 'Fantasy', 'Urban Fantasy']",500
+8,Fate/stay night: Heaven's Feel - II. Lost Butterfly,8.47,"['Action', 'Fantasy', 'Urban Fantasy']",606
+8,Fate/stay night: Heaven's Feel - III. Spring Song,8.65,"['Action', 'Fantasy', 'Urban Fantasy']",673
 6,Fate/stay night: Unlimited Blade Works,7.39,"['Action', 'Fantasy', 'Urban Fantasy']",1102
-7,Fate/stay night [Unlimited Blade Works],8.18,"['Action', 'Fantasy', 'Urban Fantasy']",141
+4,,6.82,"['Action', 'Fantasy', 'Romance', 'Urban Fantasy']",3541
+9,Fate/stay night [Unlimited Blade Works],8.18,"['Action', 'Fantasy', 'Urban Fantasy']",141
+8,Fate/stay night [Unlimited Blade Works] Season 2,8.32,"['Action', 'Fantasy', 'Urban Fantasy']",212
+5,Fate/stay night [Unlimited Blade Works] Season 2: Sunny Day,7.47,"['Action', 'Fantasy', 'Urban Fantasy']",1957
 8,Fate/stay night [Unlimited Blade Works] - Prologue,8.03,"['Action', 'Fantasy', 'Urban Fantasy']",775
 10,Fate/Zero,8.27,"['Action', 'Fantasy', 'Urban Fantasy']",80
 10,Fate/Zero Season 2,8.54,"['Action', 'Fantasy', 'Urban Fantasy']",136
-6,,7.71,"['Action', 'Fantasy', 'Super Power']",1191
-4,Final Fantasy: The Spirits Within,6.29,['Sci-Fi'],2709
-8,FLCL,8.03,"['Action', 'Avant Garde', 'Comedy', 'Mecha', 'Parody', 'Psychological', 'Sci-Fi', 'Suspense']",225
-0,Free! - Iwatobi Swim Club,7.32,"['School', 'Sports']",247
-8,Full Metal Panic!,7.59,"['Action', 'Comedy', 'Mecha', 'Military', 'Sci-Fi']",464
-9,Full Metal Panic! The Second Raid,7.91,"['Action', 'Mecha', 'Military']",966
-8,Full Metal Panic! The Second Raid: A Relatively Leisurely Day in the Life of a Fleet Captain,7.64,['Comedy'],2703
-8,Full Metal Panic? Fumoffu,8.02,"['Action', 'Comedy', 'Gag Humor', 'School']",859
-0,Fullmetal Alchemist,8.11,"['Action', 'Adventure', 'Award Winning', 'Drama', 'Fantasy', 'Military', 'Shounen']",83
-0,Fullmetal Alchemist: Brotherhood,9.1,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Military', 'Shounen']",3
-0,Locodol,6.88,"['Comedy', 'Idols (Female)', 'Slice of Life']",3403
-0,School-Live!,7.61,"['Horror', 'Mystery', 'Psychological', 'School', 'Slice of Life', 'Supernatural', 'Survival', 'Suspense']",510
-0,Gangsta.,7.41,"['Action', 'Adult Cast', 'Drama', 'Organized Crime', 'Seinen']",384
-10,Gankutsuou: The Count of Monte Cristo,8.12,"['Award Winning', 'Drama', 'Mystery', 'Sci-Fi', 'Supernatural', 'Suspense']",1003
-6,Gantz,6.98,"['Action', 'Drama', 'Gore', 'High Stakes Game', 'Horror', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",679
-6,Gantz: Second Stage,7.01,"['Action', 'Drama', 'Gore', 'High Stakes Game', 'Horror', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",1501
-5,,7.4,"['Action', 'Drama', 'Gore', 'High Stakes Game', 'Horror', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",2156
-0,GARO: THE ANIMATION,7.34,"['Action', 'Fantasy']",1652
-6,GATE,7.68,"['Action', 'Adventure', 'Fantasy', 'Isekai', 'Military']",234
-6,GATE Part 2,7.71,"['Action', 'Adventure', 'Fantasy', 'Isekai', 'Military']",403
-7,Monthly Girls' Nozaki-kun,7.82,"['Comedy', 'Otaku Culture', 'Romance', 'School']",187
-8,Genshiken,7.63,"['Adult Cast', 'Otaku Culture', 'Parody', 'Seinen', 'Slice of Life']",1373
-6,Getbackers,7.57,"['Action', 'Mystery', 'Shounen', 'Super Power', 'Supernatural']",1878
-6,Giant Killing,7.53,"['Drama', 'Seinen', 'Sports', 'Team Sports']",2685
-0,Legend of the Galactic Heroes,9.02,"['Adult Cast', 'Drama', 'Military', 'Sci-Fi', 'Space']",758
-0,Gintama,8.93,"['Action', 'Comedy', 'Gag Humor', 'Historical', 'Parody', 'Samurai', 'Sci-Fi', 'Shounen']",144
-0,Glasslip,5.42,"['Love Polygon', 'Romance', 'Supernatural', 'Visual Arts']",1488
-0,God Eater,7.18,"['Action', 'Fantasy', 'Military', 'Sci-Fi']",422
-5,Brynhildr in the Darkness,6.85,"['Drama', 'Gore', 'Harem', 'Mystery', 'Sci-Fi', 'Seinen', 'Super Power']",728
-8,Golden Boy,8.04,"['Adult Cast', 'Adventure', 'Comedy', 'Ecchi', 'Gag Humor', 'Seinen', 'Workplace']",574
+0,,7.01,"['Action', 'Fantasy', 'Urban Fantasy']",4572
+2,,6.5,"['Comedy', 'Drama', 'Romance']",3886
+6,First Squad: The Moment of Truth,5.93,"['Action', 'Historical', 'Military', 'Super Power', 'Supernatural']",3619
+7,FLCL,8.03,"['Action', 'Avant Garde', 'Comedy', 'Mecha', 'Parody', 'Psychological', 'Sci-Fi', 'Suspense']",225
+8,Flip Flappers,7.62,"['Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",1290
+8,Flying Witch,7.5,"['Fantasy', 'Iyashikei', 'Shounen', 'Slice of Life', 'Urban Fantasy']",927
+5,,6.66,"['Comedy', 'Romance', 'School', 'Supernatural', 'Vampire']",1944
+6,,6.85,"['Comedy', 'Fantasy', 'Harem', 'Romance', 'Vampire']",4428
+5,Fractale,6.91,"['Adventure', 'Fantasy', 'Sci-Fi']",2441
+4,,6.36,"['Action', 'Mecha', 'Sci-Fi']",3998
+3,Hungry Zombie Francesca,5.46,"['Comedy', 'Fantasy']",6662
+7,Free! - Iwatobi Swim Club,7.32,"['School', 'Sports']",247
+7,,7.6,"['School', 'Sports']",1365
+7,,7.61,"['School', 'Sports']",569
+7,,7.88,"['Comedy', 'School']",2272
+4,Freezing Vibration,6.7,"['Action', 'Drama', 'Ecchi', 'Harem', 'Military', 'Romance', 'Sci-Fi', 'Seinen', 'Super Power']",1465
+2,,6.45,"['Action', 'Comedy', 'Ecchi', 'Harem', 'Military', 'Sci-Fi']",4415
+7,Fruits Basket,7.69,"['Drama', 'Love Polygon', 'Romance', 'School', 'Shoujo', 'Supernatural']",425
+9,Fruits Basket 1st Season,8.21,"['Drama', 'Love Polygon', 'Romance', 'School', 'Shoujo', 'Supernatural']",214
+9,Fruits Basket 2nd Season,8.54,"['Drama', 'Romance', 'School', 'Shoujo', 'Supernatural']",433
+8,Fruits Basket: The Final Season,8.96,"['Drama', 'Romance', 'Shoujo', 'Supernatural']",463
+4,The Highschool Life of a Fudanshi,6.52,"['Comedy', 'Josei', 'Otaku Culture', 'School']",2619
+7,The Millionaire Detective – Balance: Unlimited,7.51,"['Adult Cast', 'Detective', 'Mystery']",532
+6,The Morose Mononokean,7.42,"['Comedy', 'Mythology', 'Supernatural']",1749
+7,The Morose Mononokean II,7.57,"['Comedy', 'Mythology', 'Supernatural']",3113
+8,Anonymous Noise,6.95,"['Drama', 'Love Polygon', 'Music', 'Romance', 'School', 'Shoujo']",1843
+10,Full Metal Panic!,7.59,"['Action', 'Comedy', 'Mecha', 'Military', 'Sci-Fi']",464
+8,Full Metal Panic! Invisible Victory,7.57,"['Action', 'Mecha', 'Military']",2171
+5,,6.38,"['Action', 'Mecha', 'Military']",7689
+10,Full Metal Panic! The Second Raid,7.91,"['Action', 'Mecha', 'Military']",966
+6,Full Metal Panic! The Second Raid: A Relatively Leisurely Day in the Life of a Fleet Captain,7.64,['Comedy'],2703
+9,Full Metal Panic? Fumoffu,8.02,"['Action', 'Comedy', 'Gag Humor', 'School']",859
+8,Searching for the Full Moon,7.93,"['Comedy', 'Drama', 'Music', 'Romance', 'Shoujo', 'Showbiz', 'Supernatural']",2038
+7,Fullmetal Alchemist,8.11,"['Action', 'Adventure', 'Award Winning', 'Drama', 'Fantasy', 'Military', 'Shounen']",83
+10,Fullmetal Alchemist: Brotherhood,9.1,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Military', 'Shounen']",3
+5,,7.23,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Military', 'Shounen']",3505
+7,Fullmetal Alchemist: The Movie - Conqueror of Shamballa,7.5,"['Action', 'Adventure', 'Award Winning', 'Drama', 'Fantasy', 'Historical', 'Military', 'Shounen']",753
+7,Fullmetal Alchemist: The Sacred Star of Milos,7.26,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Military', 'Shounen']",1326
+4,Fullmetal Alchemist: The Sacred Star of Milos PV,6.8,"['Comedy', 'Fantasy']",4695
+9,To Your Eternity,8.34,"['Adventure', 'Drama', 'Shounen', 'Supernatural']",198
+7,To Your Eternity Season 2,8.09,"['Adventure', 'Drama', 'Shounen', 'Supernatural']",875
+5,Crossing Time,6.36,"['Comedy', 'Slice of Life']",3530
+7,The Great Passage,7.61,"['Adult Cast', 'Award Winning', 'Drama', 'Romance', 'Workplace']",1844
+7,Fusé: Memoirs of a Huntress,7.28,"['Action', 'Drama', 'Historical', 'Supernatural']",3989
+4,,5.87,"['Comedy', 'Gag Humor', 'Slice of Life']",5867
+5,Twin Love,6.42,"['Comedy', 'Romance', 'School']",3889
+5,,6.84,"['Comedy', 'Drama', 'Romance']",4132
+4,,5.78,"['Comedy', 'Detective', 'Mystery', 'Parody', 'Super Power']",6311
+7,,5.46,"['Sports', 'Team Sports']",4045
+5,Locodol,6.88,"['Comedy', 'Idols (Female)', 'Slice of Life']",3403
+5,,7.05,"['Comedy', 'Idols (Female)', 'Slice of Life']",7247
+5,,6.88,"['Comedy', 'Idols (Female)', 'Slice of Life']",6569
+6,"More than a Married Couple, but Not Lovers.",7.58,"['Love Polygon', 'Romance', 'School', 'Seinen']",714
+4,Fuuka,6.5,"['Drama', 'Ecchi', 'Love Polygon', 'Music', 'Romance', 'School', 'Shounen']",846
+2,Dai-Shogun: Great Revolution,5.66,"['Action', 'Historical', 'Mecha']",4410
+7,Ga-Rei-Zero,7.57,"['Action', 'Gore', 'Shounen', 'Super Power', 'Supernatural', 'Suspense']",1050
+5,,7.12,"['CGDCT', 'School', 'Slice of Life', 'Visual Arts']",4970
+6,,7.06,"['CGDCT', 'School', 'Slice of Life', 'Visual Arts']",8842
+7,Gabriel DropOut,7.43,"['CGDCT', 'Comedy', 'Mythology', 'School', 'Shounen', 'Supernatural']",506
+3,,6.64,"['Action', 'Adventure', 'Mecha', 'Sci-Fi']",5710
+3,Skeleton Knight in Another World,7.15,"['Action', 'Adventure', 'Fantasy', 'Isekai']",752
+5,Skull-face Bookseller Honda-san,7.29,"['Adult Cast', 'Comedy', 'Otaku Culture', 'Workplace']",1907
+7,School-Live!,7.61,"['Horror', 'Mystery', 'Psychological', 'School', 'Slice of Life', 'Supernatural', 'Survival', 'Suspense']",510
+6,Gakuen Alice,7.64,"['Comedy', 'School', 'Shoujo', 'Super Power']",2159
+7,School Babysitters,7.9,"['Childcare', 'Iyashikei', 'School', 'Shoujo', 'Slice of Life']",707
+4,Gakuen Basara: Samurai High School,6.21,"['Action', 'Comedy', 'School']",5170
+5,,6.41,"['Comedy', 'School', 'Shounen']",10929
+5,The Asterisk War,6.8,"['Action', 'Comedy', 'Ecchi', 'Fantasy', 'Harem', 'Romance', 'School', 'Urban Fantasy']",321
+5,The Asterisk War Season 2,6.98,"['Action', 'Comedy', 'Ecchi', 'Fantasy', 'Harem', 'Romance', 'School', 'Urban Fantasy']",534
+5,Galilei Donna: Storia di tre sorelle a caccia di un mistero,6.41,"['Action', 'Adventure', 'Sci-Fi']",3156
+5,Gamers!,6.73,"['Comedy', 'Love Polygon', 'Otaku Culture', 'Romance', 'School', 'Video Game']",326
+8,Gangsta.,7.41,"['Action', 'Adult Cast', 'Drama', 'Organized Crime', 'Seinen']",384
+5,,6.47,"['Action', 'Adult Cast', 'Drama', 'Organized Crime', 'Seinen']",4889
+8,Gankutsuou: The Count of Monte Cristo,8.12,"['Award Winning', 'Drama', 'Mystery', 'Sci-Fi', 'Supernatural', 'Suspense']",1003
+5,Gantz,6.98,"['Action', 'Drama', 'Gore', 'High Stakes Game', 'Horror', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",679
+5,Gantz: Second Stage,7.01,"['Action', 'Drama', 'Gore', 'High Stakes Game', 'Horror', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",1501
+3,,7.4,"['Action', 'Drama', 'Gore', 'High Stakes Game', 'Horror', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",2156
+8,,7.54,"['Action', 'Fantasy']",4620
+5,Garo: Crimson Moon,5.88,"['Action', 'Fantasy', 'Mythology']",4168
+0,Garo: Crimson Moon - The Butterfly of Time,6.21,"['Action', 'Fantasy', 'Mythology']",9670
+8,GARO: THE ANIMATION,7.34,"['Action', 'Fantasy']",1652
+8,GARO -VANISHING LINE-,7.12,"['Action', 'Fantasy', 'Mythology', 'Urban Fantasy']",2593
+5,Gasaraki,6.62,"['Drama', 'Mecha', 'Military', 'Psychological', 'Supernatural']",4674
+8,Gatchaman Crowds,7.28,"['Action', 'Sci-Fi', 'Super Power']",1368
+6,,7.23,"['Action', 'Sci-Fi', 'Super Power']",2587
+7,,6.97,"['Action', 'Sci-Fi', 'Super Power']",4610
+3,,6.91,"['Action', 'Comedy', 'Fantasy', 'Mecha', 'Sci-Fi']",4791
+8,GATE,7.68,"['Action', 'Adventure', 'Fantasy', 'Isekai', 'Military']",234
+8,GATE Part 2,7.71,"['Action', 'Adventure', 'Fantasy', 'Isekai', 'Military']",403
+7,GeGeGe no Kitaro,7.22,"['Comedy', 'Horror', 'Mythology', 'Shounen', 'Supernatural']",3184
+7,Doctor Elise: The Royal Lady with the Lamp,7.25,"['Fantasy', 'Medical', 'Reincarnation', 'Romance']",2263
+4,Delusional Monthly Magazine,5.41,"['Comedy', 'Fantasy', 'Mystery', 'Workplace']",6382
+8,Monthly Girls' Nozaki-kun,7.82,"['Comedy', 'Otaku Culture', 'Romance', 'School']",187
+7,Monthly Girls' Nozaki-kun Specials,7.7,"['Comedy', 'Romance', 'School']",1711
+3,Day Break Illusion,6.4,"['Action', 'Drama', 'Mahou Shoujo', 'Psychological']",3107
+3,,6.26,['Mahou Shoujo'],7485
+4,,6.29,"['Adventure', 'Mecha', 'Sci-Fi', 'Space']",5661
+8,How a Realist Hero Rebuilt the Kingdom,7.25,"['Action', 'Fantasy', 'Harem', 'Isekai', 'Military', 'Romance']",576
+7,How a Realist Hero Rebuilt the Kingdom Part 2,7.43,"['Action', 'Fantasy', 'Harem', 'Isekai', 'Military', 'Romance']",939
+7,Genshiken,7.63,"['Adult Cast', 'Otaku Culture', 'Parody', 'Seinen', 'Slice of Life']",1373
+8,Genshiken 2,7.74,"['Adult Cast', 'Otaku Culture', 'Parody', 'Seinen', 'Slice of Life']",2433
+8,Genshiken Second Season,7.42,"['Adult Cast', 'Otaku Culture', 'Parody', 'Seinen', 'Slice of Life']",3130
+8,,7.15,"['Adult Cast', 'Otaku Culture', 'Parody', 'Seinen', 'Slice of Life']",5180
+6,,7.62,"['Adult Cast', 'Otaku Culture', 'Parody', 'Seinen', 'Slice of Life']",3214
+7,Getbackers,7.57,"['Action', 'Mystery', 'Shounen', 'Super Power', 'Supernatural']",1878
+7,Ghost Hunt,7.74,"['Horror', 'Mystery', 'Shoujo', 'Supernatural']",1095
+7,Girlish Number,6.81,"['Adult Cast', 'Showbiz', 'Slice of Life']",2152
+3,,3.82,"['Action', 'Fantasy', 'Horror', 'Martial Arts', 'Samurai', 'Sci-Fi']",2762
+3,,6.55,"['Comedy', 'Drama', 'Harem', 'Romance', 'School']",4133
+2,,6.66,"['Comedy', 'Ecchi', 'Harem', 'Romance']",7502
+5,,6.41,"['Action', 'Historical', 'Martial Arts', 'Samurai', 'Seinen']",7271
+7,Pseudo Harem,7.85,"['Comedy', 'Love Status Quo', 'Romance', 'School', 'Shounen']",1502
+5,Gilgamesh,6.59,"['Drama', 'Fantasy', 'Sci-Fi', 'Shounen']",3556
+7,Days with My Stepsister,7.35,['Romance'],1450
+3,The Silver Guardian,6.2,"['Adventure', 'Fantasy', 'Video Game']",2002
+8,Silver Spoon,8.09,"['Comedy', 'School', 'Shounen']",865
+8,Silver Spoon 2nd Season,8.27,"['Comedy', 'School', 'Shounen']",1642
+8,,7.29,"['Drama', 'Performing Arts', 'Romance', 'Sports', 'Supernatural']",3243
+7,Majestic Prince,7.33,"['Action', 'Mecha', 'School', 'Sci-Fi', 'Seinen', 'Space']",3072
+5,Majestic Prince Episode 25 – Wings to the Future,6.43,"['Action', 'Mecha', 'School', 'Sci-Fi', 'Seinen', 'Space']",7873
+8,Gingitsune: Messenger Fox of the Gods,7.15,"['Mythology', 'Seinen', 'Slice of Life', 'Supernatural']",3008
+6,Origin: Spirits of the Past,7.04,"['Adventure', 'Drama', 'Fantasy', 'Romance', 'Sci-Fi']",2618
+5,Girl Friend Beta,5.91,"['School', 'Slice of Life']",3516
+8,Girls und Panzer,7.53,"['Action', 'CGDCT', 'Military', 'School']",811
+8,Girls und Panzer der Film,8.18,"['Action', 'Award Winning', 'CGDCT', 'Military', 'School']",2060
+7,Girls und Panzer OVA,7.23,"['CGDCT', 'Military', 'School']",3654
+8,Girls und Panzer: This is the Real Anzio Battle!,7.72,"['Action', 'CGDCT', 'Military', 'School']",3268
+5,,6.68,"['CGDCT', 'Military', 'School']",5088
+3,,6.14,"['Action', 'Military', 'Sci-Fi']",2484
+7,GJ Club,7.29,"['Comedy', 'School']",1404
+7,,7.23,"['Comedy', 'School', 'Slice of Life']",3814
+6,Garakowa -Restore the World-,6.64,['Sci-Fi'],4104
+7,Glass Mask,8.03,"['Drama', 'Performing Arts', 'Romance', 'Shoujo', 'Showbiz']",3650
+3,Glasslip,5.42,"['Love Polygon', 'Romance', 'Supernatural', 'Visual Arts']",1488
+3,Gleipnir,6.96,"['Action', 'Ecchi', 'Mystery', 'Seinen', 'Super Power']",461
+3,,5.62,['Slice of Life'],6121
+4,Goblin Slayer,7.42,"['Action', 'Adventure', 'Fantasy', 'Gore']",129
+6,,7.2,"['Action', 'Adventure', 'Fantasy', 'Gore']",663
+4,Goblin Slayer: Adventure Sheet,6.32,"['Action', 'Adventure', 'Fantasy', 'Gore']",3199
+7,Is the Order a Rabbit?,7.49,"['CGDCT', 'Iyashikei', 'Slice of Life', 'Workplace']",1067
+8,Is the Order a Rabbit? Bloom,7.92,"['CGDCT', 'Iyashikei', 'Slice of Life', 'Workplace']",2807
+7,Is the Order a Rabbit??,7.77,"['CGDCT', 'Iyashikei', 'Slice of Life', 'Workplace']",1760
+5,God Eater,7.18,"['Action', 'Fantasy', 'Military', 'Sci-Fi']",422
+0,God Eater 3,6.46,"['Action', 'Music', 'Video Game']",8311
+5,,6.62,"['Action', 'Fantasy', 'Military', 'Sci-Fi']",3888
+5,Godzilla: Planet of the Monsters,6.43,"['Action', 'Adventure', 'Sci-Fi']",2864
+7,Goodbye Mr. Despair OAD,7.81,"['Comedy', 'Gag Humor', 'Parody', 'School', 'Shounen']",2841
+4,Brynhildr in the Darkness,6.85,"['Drama', 'Gore', 'Harem', 'Mystery', 'Sci-Fi', 'Seinen', 'Super Power']",728
+4,Brynhildr in the Darkness Special,6.58,"['Comedy', 'Ecchi', 'Harem', 'Sci-Fi', 'Seinen']",3524
+5,Golden Boy,8.04,"['Adult Cast', 'Adventure', 'Comedy', 'Ecchi', 'Gag Humor', 'Seinen', 'Workplace']",574
+8,Golden Kamuy,7.88,"['Action', 'Adult Cast', 'Adventure', 'Historical', 'Military', 'Seinen']",584
+8,Golden Kamuy Season 2,8.24,"['Action', 'Adult Cast', 'Adventure', 'Historical', 'Military', 'Seinen']",1183
+8,Golden Kamuy Season 3,8.43,"['Action', 'Adult Cast', 'Adventure', 'Historical', 'Military', 'Seinen']",1398
+0,Golden Kamuy Season 4,8.12,"['Action', 'Adult Cast', 'Adventure', 'Historical', 'Military', 'Seinen']",2117
 8,Golden Time,7.74,"['Adult Cast', 'Drama', 'Love Polygon', 'Romance']",149
-9,Great Teacher Onizuka,8.68,"['Comedy', 'Delinquents', 'School', 'Shounen', 'Workplace']",219
-4,Grenadier: The Beautiful Warrior,6.68,"['Action', 'Adventure', 'Comedy', 'Ecchi', 'Shounen']",3054
-0,The Fruit of Grisaia,7.46,"['Drama', 'Harem', 'Psychological', 'Romance', 'School', 'Suspense']",359
-5,Rave Master,7.2,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance', 'Shounen']",2155
-5,Guilty Crown,7.4,"['Action', 'Drama', 'Mecha', 'Sci-Fi', 'Super Power']",118
-0,Gungrave,7.81,"['Action', 'Adult Cast', 'Drama', 'Gore', 'Organized Crime', 'Sci-Fi', 'Super Power']",1289
-8,Kaiji: Ultimate Survivor,8.26,"['Adult Cast', 'High Stakes Game', 'Psychological', 'Seinen', 'Strategy Game', 'Suspense']",681
-0,Ace Attorney,6.53,"['Adult Cast', 'Comedy', 'Detective', 'Drama', 'Mystery', 'Workplace']",1700
-6,GYO: Tokyo Fish Attack!,5.33,"['Drama', 'Gore', 'Horror', 'Mystery', 'Psychological', 'Sci-Fi', 'Seinen', 'Survival', 'Suspense']",2894
-0,Honey and Clover,7.98,"['Adult Cast', 'Comedy', 'Drama', 'Josei', 'Love Polygon', 'Romance', 'Visual Arts']",930
-7,Haikyu!!,8.44,"['School', 'Shounen', 'Sports', 'Team Sports']",37
-8,Haikyu!! 3rd Season,8.77,"['School', 'Shounen', 'Sports', 'Team Sports']",115
-7,Haikyu!! 2nd Season,8.62,"['School', 'Shounen', 'Sports', 'Team Sports']",87
-8,Fighting Spirit,8.78,"['Combat Sports', 'Shounen', 'Sports']",362
-8,Fighting Spirit: New Challenger,8.67,"['Combat Sports', 'Shounen', 'Sports']",867
-7,Fighting Spirit: Rising,8.61,"['Combat Sports', 'Shounen', 'Sports']",931
-4,Halo Legends,6.98,"['Action', 'Drama', 'Military', 'Sci-Fi']",3578
-0,Hanamonogatari,7.92,"['Comedy', 'Mystery', 'Supernatural']",552
-0,Hanayamata,7.31,"['CGDCT', 'Iyashikei', 'Performing Arts', 'School', 'Slice of Life']",2029
-6,The Devil is a Part-Timer!,7.72,"['Comedy', 'Supernatural']",74
-8,Hellsing Ultimate,8.35,"['Action', 'Adult Cast', 'Gore', 'Horror', 'Military', 'Seinen', 'Supernatural', 'Vampire']",182
-0,Sound! Euphonium,8.02,"['Drama', 'Music', 'Performing Arts', 'School']",491
-8,Eden of The East,7.74,"['Adult Cast', 'Award Winning', 'Mystery', 'Psychological', 'Romance', 'Sci-Fi', 'Suspense']",399
-6,Eden of The East the Movie I: The King of Eden,7.53,"['Adult Cast', 'Mystery', 'Psychological', 'Romance', 'Sci-Fi', 'Suspense']",1439
-6,Eden of The East the Movie II: Paradise Lost,7.55,"['Adult Cast', 'Mystery', 'Psychological', 'Romance', 'Sci-Fi', 'Suspense']",1644
-7,,7.34,['Music'],5824
-6,High School of the Dead,7.07,"['Action', 'Ecchi', 'Gore', 'Horror', 'Shounen', 'Supernatural', 'Survival', 'Suspense']",79
-0,Hikaru no Go,8.07,"['Comedy', 'Drama', 'School', 'Shounen', 'Strategy Game', 'Supernatural']",1695
-0,Himouto! Umaru-chan,7.1,"['Comedy', 'Otaku Culture', 'School', 'Seinen']",298
-6,Chaika -The Coffin Princess-,7.21,"['Action', 'Adventure', 'Fantasy', 'Romance']",636
-8,Chaika -The Coffin Princess- Avenging Battle,7.16,"['Action', 'Adventure', 'Fantasy', 'Romance']",1208
-6,Fist of the North Star,7.96,"['Action', 'Drama', 'Gore', 'Martial Arts', 'Sci-Fi', 'Shounen', 'Super Power']",1759
-8,Grave of the Fireflies,8.52,"['Drama', 'Historical']",299
-8,Into the Forest of Fireflies' Light,8.27,"['Award Winning', 'Drama', 'Romance', 'Shoujo', 'Supernatural']",229
-8,Hunter x Hunter,8.42,"['Action', 'Adventure', 'Fantasy', 'Shounen']",373
-9,Hunter x Hunter,9.03,"['Action', 'Adventure', 'Fantasy', 'Shounen']",8
-8,,8.18,"['Action', 'Adventure', 'Fantasy', 'Shounen']",1539
-8,,8.25,"['Action', 'Adventure', 'Fantasy', 'Shounen']",1635
-10,,8.31,"['Action', 'Adventure', 'Fantasy', 'Shounen']",1813
-0,"Now and Then, Here and There",7.58,"['Adventure', 'Drama', 'Fantasy', 'Isekai', 'Military', 'Sci-Fi']",1618
-8,Initial D First Stage,8.35,"['Action', 'Drama', 'Racing', 'Seinen']",608
-0,,8.17,"['Action', 'Drama', 'Racing', 'Seinen']",1273
-0,When Supernatural Battles Became Commonplace,7.04,"['Comedy', 'Harem', 'School', 'Super Power']",551
-7,,8.13,"['Adult Cast', 'Adventure', 'Drama', 'Music', 'Sci-Fi']",2588
-4,InuYasha,7.87,"['Action', 'Adventure', 'Fantasy', 'Historical', 'Love Polygon', 'Mythology', 'Romance', 'Shounen', 'Time Travel']",245
-0,One Week Friends,7.52,"['Drama', 'School', 'Shounen']",790
-0,Hell Girl,7.6,"['Horror', 'Mystery', 'Psychological', 'Supernatural', 'Suspense']",674
-6,JoJo's Bizarre Adventure,7.5,"['Action', 'Adventure', 'Drama', 'Shounen', 'Super Power', 'Vampire']",1740
-7,JoJo's Bizarre Adventure (2012),7.87,"['Action', 'Adventure', 'Historical', 'Shounen', 'Supernatural', 'Vampire']",58
-0,JoJo's Bizarre Adventure: Stardust Crusaders,8.11,"['Action', 'Adventure', 'Shounen', 'Super Power']",112
-0,Joker Game,7.02,"['Drama', 'Historical', 'Military', 'Mystery', 'Suspense']",1201
-0,Jormungand,7.79,"['Action', 'Adult Cast', 'Adventure', 'Military', 'Organized Crime', 'Seinen']",659
-0,The Twelve Kingdoms,8.01,"['Action', 'Adventure', 'Fantasy', 'Isekai']",1554
-6,K-ON!,7.86,"['CGDCT', 'Comedy', 'Music', 'School']",147
-0,The World God Only Knows,7.64,"['Comedy', 'Harem', 'Otaku Culture', 'Romance', 'Shounen', 'Supernatural']",353
-0,Sunday Without God,7.27,"['Adventure', 'Drama', 'Fantasy', 'Mystery']",1140
-8,She and Her Cat: Their Standing Points,7.26,"['Pets', 'Slice of Life']",2196
-8,The Garden of Sinners Chapter 1: Overlooking View,7.56,"['Action', 'Fantasy', 'Mystery', 'Suspense', 'Urban Fantasy']",555
-10,The Garden of Sinners Chapter 2: A Study in Murder - Part 1,7.76,"['Action', 'Fantasy', 'Mystery', 'Romance', 'Suspense', 'Urban Fantasy']",1035
-10,The Garden of Sinners Chapter 3: Remaining Sense of Pain,8.01,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Suspense', 'Urban Fantasy']",1100
-8,The Garden of Sinners Chapter 4: The Hollow Shrine,7.82,"['Action', 'Fantasy', 'Mystery', 'Suspense', 'Urban Fantasy']",1174
-10,The Garden of Sinners Chapter 5: Paradox Spiral,8.51,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Romance', 'Suspense', 'Urban Fantasy']",1046
-8,The Garden of Sinners Chapter 6: Oblivion Recording,7.44,"['Action', 'Fantasy', 'Mystery', 'Romance', 'Suspense', 'Urban Fantasy']",1286
-10,The Garden of Sinners Chapter 7: A Study in Murder - Part 2,8.37,"['Action', 'Fantasy', 'Mystery', 'Romance', 'Suspense', 'Urban Fantasy']",1209
-9,The Garden of Sinners Chapter 8: Epilogue,7.21,['Mystery'],1879
-0,The Garden of Sinners: Future Gospel,7.99,"['Drama', 'Mystery', 'Supernatural']",1934
-8,The Garden of Sinners Remix: Gate of Seventh Heaven,7.53,"['Action', 'Fantasy', 'Mystery', 'Romance', 'Suspense']",3314
-8,His and Her Circumstances,7.6,"['Comedy', 'Drama', 'Romance', 'School', 'Shoujo']",1066
-0,Katanagatari,8.3,"['Action', 'Adventure', 'Historical', 'Martial Arts', 'Romance']",402
-6,Kaze no Stigma,7.15,"['Action', 'Romance', 'Supernatural']",513
-9,Nausicaä of the Valley of the Wind,8.35,"['Adventure', 'Award Winning', 'Fantasy']",632
-0,Carried by the Wind: Tsukikage Ran,7.1,"['Adventure', 'Comedy', 'Historical', 'Martial Arts', 'Samurai']",5291
-7,Blood Blockade Battlefront,7.59,"['Action', 'Fantasy', 'Shounen', 'Super Power', 'Urban Fantasy', 'Vampire']",201
-6,Kekkaishi,7.59,"['Action', 'Adventure', 'Mythology', 'Shounen', 'Supernatural']",2020
-8,Berserk,8.6,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Gore', 'Horror', 'Military', 'Seinen']",308
-6,,6.42,"['Combat Sports', 'Comedy', 'Romance', 'Sports']",4911
-7,Mobile Suit Gundam 00,8.1,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi', 'Space']",1146
-7,Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer,7.3,"['Action', 'Mecha', 'Sci-Fi', 'Space']",2876
-7,Mobile Suit Gundam 00: Second Season,8.07,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi', 'Space']",1586
-6,Mobile Suit Gundam SEED,7.74,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Military', 'Romance', 'Sci-Fi', 'Space']",1409
-7,Kill la Kill,8.03,"['Action', 'Comedy', 'Ecchi', 'Fantasy', 'School', 'Urban Fantasy']",55
-5,Kill la Kill Specials,7.68,"['Action', 'Comedy', 'Ecchi', 'Fantasy', 'School', 'Urban Fantasy']",1242
-7,Rumbling Hearts,7.17,"['Drama', 'Love Polygon', 'Romance']",1671
-10,Your Name.,8.83,"['Award Winning', 'Drama']",11
-0,Kino's Journey,8.28,"['Adventure', 'Drama', 'Fantasy']",772
-6,Parasyte: The Maxim,8.33,"['Action', 'Gore', 'Horror', 'Psychological', 'Sci-Fi', 'Seinen', 'Suspense']",42
-6,Kiznaiver,7.36,"['Drama', 'Romance', 'Sci-Fi']",272
-7,Kizumonogatari Part 1: Iron-Blooded,8.36,"['Action', 'Mystery', 'Supernatural', 'Vampire']",426
-9,A Silent Voice,8.93,"['Award Winning', 'Drama', 'Shounen']",20
-6,,7.0,"['Drama', 'Psychological', 'Romance', 'Seinen']",2391
-7,Kokoro Connect,7.73,"['Drama', 'Love Polygon', 'Romance', 'School', 'Supernatural']",223
-8,KonoSuba: God's Blessing on This Wonderful World!,8.1,"['Adventure', 'Comedy', 'Fantasy', 'Isekai', 'Parody']",38
-7,KonoSuba: God's Blessing on This Wonderful World! 2,8.25,"['Adventure', 'Comedy', 'Fantasy', 'Isekai', 'Parody']",76
-8,The Garden of Words,7.87,"['Award Winning', 'Drama', 'Romance', 'Visual Arts']",207
-0,The Troubled Life of Miss Kotoura,7.15,"['Comedy', 'Romance', 'School', 'Super Power']",719
-8,Ghost in the Shell,8.27,"['Action', 'Adult Cast', 'Award Winning', 'Detective', 'Mecha', 'Mystery', 'Psychological', 'Sci-Fi', 'Seinen', 'Suspense']",335
-10,Ghost in the Shell: Stand Alone Complex,8.42,"['Action', 'Adult Cast', 'Award Winning', 'Detective', 'Mecha', 'Military', 'Mystery', 'Sci-Fi', 'Seinen']",604
-0,Ghost in the Shell: Stand Alone Complex - Solid State Society,8.1,"['Action', 'Adult Cast', 'Award Winning', 'Detective', 'Mecha', 'Military', 'Mystery', 'Sci-Fi', 'Seinen']",2158
-10,Ghost in the Shell: Stand Alone Complex 2nd GIG,8.51,"['Action', 'Adult Cast', 'Detective', 'Mecha', 'Military', 'Mystery', 'Sci-Fi', 'Seinen']",1113
-8,Eureka Seven,8.05,"['Action', 'Adventure', 'Drama', 'Mecha', 'Romance', 'Sci-Fi']",540
-5,Kabaneri of the Iron Fortress,7.27,"['Action', 'Fantasy', 'Gore', 'Historical', 'Horror', 'Survival', 'Suspense']",231
-0,Kurokami The Animation,7.12,"['Action', 'Martial Arts', 'Seinen', 'Supernatural']",1899
-8,Kuroko's Basketball,8.05,"['School', 'Shounen', 'Sports', 'Team Sports']",117
-8,Kuroko's Basketball 2,8.2,"['School', 'Shounen', 'Sports', 'Team Sports']",211
-6,Swimming,6.98,['Sports'],5813
-0,Beyond the Boundary,7.72,"['Action', 'School', 'Supernatural']",125
-0,Last Exile,7.78,"['Action', 'Adventure', 'Sci-Fi']",1402
-0,Level E,7.39,"['Comedy', 'Gag Humor', 'Sci-Fi', 'Shounen']",2246
-8,Log Horizon,7.9,"['Action', 'Adult Cast', 'Adventure', 'Fantasy', 'Video Game']",137
-0,Log Horizon 2,7.56,"['Action', 'Adult Cast', 'Adventure', 'Fantasy', 'Video Game']",363
-8,Love Hina,7.09,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'Shounen']",935
-8,Love Hina Again,7.2,"['Comedy', 'Ecchi', 'Romance', 'Shounen']",2402
-8,Love Hina Christmas Movie,7.31,"['Comedy', 'Romance', 'Shounen']",2999
-6,Love Hina Spring Movie,7.18,"['Adventure', 'Comedy', 'Romance', 'Shounen']",3155
-0,Lovely Complex,8.03,"['Comedy', 'Romance', 'School', 'Shoujo']",372
-2,Lucky☆Star,7.75,"['CGDCT', 'Comedy', 'Gag Humor', 'Otaku Culture', 'School']",332
-8,Lupin III vs. Detective Conan,7.75,"['Action', 'Adventure', 'Comedy', 'Mystery', 'Shounen']",3855
-8,Lupin III: The Castle of Cagliostro,8.15,"['Action', 'Adult Cast', 'Adventure', 'Award Winning', 'Comedy', 'Mystery', 'Seinen']",1926
-9,Lupin III Episode 0: The First Contact,7.54,"['Action', 'Adult Cast', 'Adventure', 'Comedy', 'Mystery', 'Seinen']",6206
-0,Magical Warfare,5.95,"['Action', 'Fantasy', 'School']",999
-10,Puella Magi Madoka Magica,8.37,"['Award Winning', 'Drama', 'Mahou Shoujo', 'Psychological', 'Suspense']",104
-7,Puella Magi Madoka Magica the Movie: Rebellion,8.49,"['Award Winning', 'Drama', 'Mahou Shoujo', 'Psychological', 'Suspense']",628
-0,The Comic Artist and His Assistants,7.08,"['Comedy', 'Ecchi', 'Harem', 'Seinen']",902
-5,Mass Effect: Paragon Lost,6.27,"['Action', 'Adventure', 'Sci-Fi']",6890
-0,The Lost Village,5.49,"['Drama', 'Horror', 'Mystery', 'Psychological', 'Survival', 'Suspense']",1173
-6,Case Closed Movie 01: The Time Bombed Skyscraper,7.86,"['Adventure', 'Comedy', 'Detective', 'Mystery', 'Shounen']",2628
-8,Case Closed Movie 06: The Phantom of Baker Street,8.29,"['Adventure', 'Detective', 'Mystery', 'Shounen']",2526
-4,Mekakucity Actors,7.01,"['Sci-Fi', 'Super Power', 'Supernatural']",535
-9,,7.79,"['Adult Cast', 'Adventure', 'Avant Garde', 'Award Winning', 'Comedy', 'Psychological', 'Romance']",2350
-6,The Future Diary,7.39,"['Action', 'Gore', 'High Stakes Game', 'Psychological', 'Shounen', 'Supernatural', 'Survival', 'Suspense']",35
-8,Mob Psycho 100,8.49,"['Action', 'Comedy', 'Supernatural']",28
-9,Monogatari Series: Second Season,8.76,"['Comedy', 'Mystery', 'Romance', 'Supernatural', 'Vampire']",316
-10,Princess Mononoke,8.66,"['Action', 'Adventure', 'Award Winning', 'Fantasy']",106
-10,Monster,8.88,"['Adult Cast', 'Drama', 'Mystery', 'Psychological', 'Seinen', 'Suspense']",126
-0,Monster Musume: Everyday Life with Monster Girls,6.93,"['Anthropomorphic', 'Comedy', 'Ecchi', 'Fantasy', 'Harem', 'Romance', 'Seinen', 'Urban Fantasy']",268
-8,Paranoia Agent,7.66,"['Adult Cast', 'Avant Garde', 'Award Winning', 'Detective', 'Drama', 'Mystery', 'Psychological', 'Supernatural', 'Suspense']",550
-7,Time of Shura,7.54,"['Action', 'Historical', 'Martial Arts', 'Samurai', 'Shounen']",4621
-0,Nabari no Ou,7.24,"['Action', 'Drama', 'Martial Arts', 'Shounen', 'Supernatural']",1480
-7,A Lull in the Sea,7.94,"['Drama', 'Fantasy', 'Love Polygon', 'Romance', 'Urban Fantasy']",371
-9,Nana,8.56,"['Adult Cast', 'Drama', 'Love Polygon', 'Music', 'Romance', 'Shoujo']",297
-6,Naruto,8.0,"['Action', 'Adventure', 'Fantasy', 'Martial Arts', 'Shounen']",9
-6,Naruto Shippuden,8.27,"['Action', 'Adventure', 'Fantasy', 'Martial Arts', 'Shounen']",16
-7,Cat Soup,7.32,"['Anthropomorphic', 'Avant Garde', 'Award Winning', 'Comedy', 'Psychological']",2477
-7,Nekomonogatari Black,7.92,"['Ecchi', 'Mystery', 'Romance', 'Supernatural']",411
-9,Welcome to the N.H.K.,8.31,"['Adult Cast', 'Comedy', 'Drama', 'Otaku Culture', 'Psychological', 'Romance', 'Suspense']",266
-0,The Daughter of 20 Faces,7.54,"['Action', 'Adventure', 'Mystery', 'Seinen']",3929
-6,Nisekoi: False Love,7.56,"['Comedy', 'Harem', 'Romance', 'School', 'Shounen']",123
-5,Nisekoi: False Love Season 2,7.34,"['Comedy', 'Harem', 'Romance', 'School', 'Shounen']",294
-8,Nisemonogatari,8.13,"['Comedy', 'Ecchi', 'Mystery', 'Supernatural']",285
-7,"No Game, No Life",8.05,"['Comedy', 'Ecchi', 'Fantasy', 'Isekai', 'Strategy Game']",19
-0,Nobunagun,6.66,"['Action', 'Sci-Fi', 'Super Power']",2825
-0,Nodame Cantabile,8.25,"['Adult Cast', 'Comedy', 'Josei', 'Music', 'Romance']",794
-0,Noein: To Your Other Self,7.56,"['Adventure', 'Drama', 'Sci-Fi', 'Time Travel']",2297
-0,Noir,7.28,"['Action', 'Drama', 'Mystery', 'Organized Crime']",1964
-7,Noragami,7.94,"['Action', 'Mythology', 'Shounen', 'Supernatural']",27
-7,Noragami Aragoto,8.14,"['Action', 'Mythology', 'Shounen', 'Supernatural']",84
-6,Heart and Yummie,8.02,"['Action', 'Adventure', 'Anthropomorphic', 'Childcare', 'Fantasy', 'Kids']",4984
-8,One Outs,8.32,"['Adult Cast', 'Psychological', 'Seinen', 'Sports', 'Suspense', 'Team Sports']",1041
-8,One Piece,8.73,"['Action', 'Adventure', 'Fantasy', 'Shounen']",17
-8,One Punch Man,8.49,"['Action', 'Adult Cast', 'Comedy', 'Parody', 'Seinen', 'Super Power']",4
-9,Wolf Children,8.56,"['Award Winning', 'Childcare', 'Slice of Life', 'Supernatural']",238
-0,Wolf Girl & Black Prince,7.01,"['Comedy', 'Romance', 'School', 'Shoujo']",489
-8,Spice and Wolf,8.21,"['Adult Cast', 'Adventure', 'Drama', 'Romance', 'Supernatural']",232
-0,Spice and Wolf II,8.3,"['Adult Cast', 'Adventure', 'Drama', 'Romance', 'Supernatural']",469
-0,My Love Story!!,7.9,"['Comedy', 'Romance', 'Shoujo']",310
-8,OreImo,6.93,"['Comedy', 'Otaku Culture']",309
-8,OreImo Specials,7.32,"['Comedy', 'Otaku Culture', 'Romance']",1301
-8,OreImo 2,6.9,"['Comedy', 'Otaku Culture', 'Romance']",539
-8,OreImo 2 Specials,6.31,"['Comedy', 'Otaku Culture', 'Romance']",1676
-0,Mr. Osomatsu,7.93,"['Comedy', 'Gag Humor', 'Parody']",1419
-7,Overlord,7.91,"['Action', 'Adventure', 'Fantasy', 'Isekai']",68
-5,Seraph of the End: Vampire Reign,7.48,"['Action', 'Drama', 'Fantasy', 'Military', 'Shounen', 'Urban Fantasy', 'Vampire']",102
-5,Seraph of the End: Battle in Nagoya,7.61,"['Action', 'Drama', 'Fantasy', 'Military', 'Shounen', 'Urban Fantasy', 'Vampire']",249
-7,,7.27,"['Drama', 'Sci-Fi']",2707
-7,Panty & Stocking with Garterbelt,7.73,"['Action', 'Comedy', 'Ecchi', 'Fantasy', 'Gag Humor', 'Parody']",598
-8,Paprika,8.04,"['Adult Cast', 'Avant Garde', 'Award Winning', 'Mystery', 'Psychological', 'Sci-Fi', 'Suspense']",412
-0,Paradise Kiss,7.86,"['Drama', 'Josei', 'Romance', 'School', 'Visual Arts']",1073
-10,Perfect Blue,8.55,"['Adult Cast', 'Avant Garde', 'Award Winning', 'Drama', 'Horror', 'Psychological', 'Showbiz', 'Suspense']",283
-7,Pet Shop of Horrors,7.24,"['Horror', 'Josei', 'Mystery', 'Supernatural']",2713
-0,Phantom: Requiem for the Phantom,7.92,"['Action', 'Drama', 'Organized Crime', 'Suspense']",733
-8,Ping Pong the Animation,8.62,"['Award Winning', 'Drama', 'Seinen', 'Sports']",599
-9,Planetes,8.25,"['Adult Cast', 'Award Winning', 'Drama', 'Romance', 'Sci-Fi', 'Seinen', 'Space', 'Workplace']",979
-6,Pokémon,7.4,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Kids']",346
-4,Pokémon: The First Movie - Mewtwo Strikes Back,7.66,"['Action', 'Adventure', 'Award Winning', 'Comedy', 'Fantasy', 'Kids']",933
-6,Pokémon 3: The Movie,7.08,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Kids']",1376
-5,Pokémon: Mewtwo Returns,7.08,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Kids']",2528
-5,Pokémon: Origins,7.73,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Kids']",1081
-0,Princess Tutu,8.13,"['Anthropomorphic', 'Drama', 'Love Polygon', 'Mahou Shoujo', 'Mystery', 'Performing Arts', 'Romance']",1426
-7,Psycho-Pass,8.33,"['Action', 'Adult Cast', 'Detective', 'Mystery', 'Psychological', 'Sci-Fi', 'Suspense']",63
-0,Psycho-Pass 2,7.4,"['Action', 'Adult Cast', 'Detective', 'Mystery', 'Psychological', 'Sci-Fi', 'Suspense']",329
-6,Psycho-Pass: The Movie,7.7,"['Action', 'Adult Cast', 'Detective', 'Military', 'Sci-Fi']",911
-4,Pupa,3.29,"['Fantasy', 'Gore', 'Horror', 'Psychological', 'Suspense']",1310
-6,The King's Avatar,7.87,"['Action', 'Video Game']",658
-9,RahXephon,7.37,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Music', 'Mystery', 'Psychological', 'Romance', 'Sci-Fi', 'Suspense']",1903
-0,Rail Wars!,6.39,"['Action', 'Ecchi', 'Harem', 'Workplace']",1186
-6,Expelled from Paradise,7.3,"['Action', 'Mecha', 'Sci-Fi']",2103
-6,Ranma ½,7.77,"['Action', 'Comedy', 'Ecchi', 'Magical Sex Shift', 'Martial Arts', 'Romance', 'School', 'Shounen']",955
-0,Re:CREATORS,7.55,"['Action', 'Fantasy']",452
-6,Re:ZERO -Starting Life in Another World-,8.23,"['Drama', 'Fantasy', 'Isekai', 'Psychological', 'Suspense', 'Time Travel']",23
-8,Redline,8.28,"['Action', 'Adult Cast', 'Racing', 'Sci-Fi']",622
-6,Rokka: Braves of the Six Flowers,7.26,"['Action', 'Fantasy', 'Mystery']",345
-0,Rozen Maiden,7.4,"['Action', 'Comedy', 'Drama', 'Fantasy', 'Seinen']",1215
-8,Rurouni Kenshin,8.28,"['Action', 'Comedy', 'Historical', 'Romance', 'Samurai', 'Shounen']",466
-5,Samurai X: The Motion Picture,7.55,"['Drama', 'Historical', 'Samurai', 'Shounen']",3163
-9,Samurai X: Reflection,7.96,"['Drama', 'Historical', 'Romance', 'Samurai', 'Shounen']",2409
-9,Samurai X: Trust and Betrayal,8.7,"['Action', 'Adult Cast', 'Drama', 'Historical', 'Romance', 'Samurai', 'Shounen']",909
-6,s-CRY-ed,7.35,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Super Power']",2437
-7,Kids on the Slope,8.29,"['Drama', 'Historical', 'Josei', 'Love Polygon', 'Music', 'Romance', 'School']",620
-0,Haven't You Heard? I'm Sakamoto,7.54,"['Comedy', 'Gag Humor', 'School', 'Seinen']",257
-8,Cromartie High School,7.89,"['Comedy', 'Delinquents', 'Gag Humor', 'Parody', 'School', 'Shounen']",1675
-6,Samurai 7,7.43,"['Action', 'Historical', 'Mecha', 'Samurai', 'Sci-Fi']",1775
-8,Samurai Champloo,8.51,"['Action', 'Adventure', 'Comedy', 'Historical', 'Samurai']",109
-0,"Sayonara, Zetsubou-Sensei",7.85,"['Comedy', 'Gag Humor', 'Parody', 'School', 'Shounen']",712
-4,School Days,5.51,"['Drama', 'Harem', 'Romance', 'School']",318
-7,Scrapped Princess,7.37,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mecha', 'Sci-Fi']",2214
-7,Outlaw Star,7.83,"['Action', 'Adventure', 'Comedy', 'Sci-Fi', 'Seinen', 'Space']",1536
-7,KADO: The Right Answer,6.72,"['Adult Cast', 'Sci-Fi']",2077
-0,Moribito - Guardian of the Spirit,8.12,"['Action', 'Adventure', 'Fantasy']",1149
-9,Spirited Away,8.77,"['Adventure', 'Award Winning', 'Fantasy', 'Mythology']",44
-9,Millennium Actress,8.24,"['Action', 'Adult Cast', 'Adventure', 'Award Winning', 'Drama', 'Fantasy', 'Historical', 'Romance', 'Showbiz']",1292
-7,Shakugan no Shana: Season I,7.44,"['Action', 'Drama', 'Fantasy', 'Romance', 'School', 'Urban Fantasy']",427
-6,Shakugan no Shana: Season II,7.54,"['Action', 'Drama', 'Fantasy', 'Romance', 'School', 'Urban Fantasy']",817
-0,Shakugan no Shana: Season III,7.5,"['Action', 'Drama', 'Fantasy', 'Romance', 'School', 'Urban Fantasy']",1060
-0,Shaman King,7.73,"['Action', 'Adventure', 'Shounen', 'Supernatural']",668
-9,Your Lie in April,8.64,"['Drama', 'Love Polygon', 'Music', 'Romance', 'School', 'Shounen']",24
-6,KenIchi: The Mightiest Disciple,8.04,"['Action', 'Comedy', 'Martial Arts', 'School', 'Shounen']",826
-0,Shiki,7.72,"['Gore', 'Horror', 'Mystery', 'Psychological', 'Shounen', 'Supernatural', 'Suspense', 'Vampire']",368
-0,SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist,7.22,"['Comedy', 'Ecchi', 'Gag Humor', 'School']",236
-0,Evangelion: 3.0+1.0 Thrice Upon a Time,8.59,"['Action', 'Award Winning', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",630
-8,Mobile Suit Gundam Wing,7.67,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi', 'Space']",1524
-0,The Prince of Tennis II,7.53,"['School', 'Shounen', 'Sports']",2846
-0,Rage of Bahamut: Genesis,7.61,"['Action', 'Adventure', 'Fantasy']",571
-8,Attack on Titan,8.55,"['Action', 'Award Winning', 'Drama', 'Gore', 'Military', 'Shounen', 'Survival', 'Suspense']",1
-7,Attack on Titan OAD,7.88,"['Action', 'Drama', 'Gore', 'Shounen', 'Survival', 'Suspense']",494
-8,Attack on Titan Season 2,8.52,"['Action', 'Drama', 'Gore', 'Military', 'Shounen', 'Survival', 'Suspense']",12
-8,Neon Genesis Evangelion,8.35,"['Action', 'Avant Garde', 'Award Winning', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",45
-8,Neon Genesis Evangelion: The End of Evangelion,8.55,"['Action', 'Avant Garde', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",176
-6,Neon Genesis Evangelion: Death & Rebirth,7.48,"['Action', 'Drama', 'Mecha', 'Psychological', 'Sci-Fi', 'Suspense']",952
-0,From the New World,8.25,"['Drama', 'Fantasy', 'Horror', 'Mystery', 'Psychological', 'Sci-Fi', 'Suspense']",256
-0,Shirobako,8.27,"['Adult Cast', 'Award Winning', 'Comedy', 'Drama', 'Otaku Culture', 'Workplace']",528
-7,Food Wars! Shokugeki no Soma,8.13,"['Ecchi', 'Gourmet', 'School', 'Shounen']",62
-7,Food Wars! The Second Plate,8.07,"['Ecchi', 'Gourmet', 'School', 'Shounen']",130
-0,Shonen Onmyoji,7.53,"['Action', 'Fantasy', 'Historical', 'Mythology', 'Shoujo']",3056
-0,Knights of Sidonia,7.63,"['Action', 'Mecha', 'Sci-Fi', 'Seinen', 'Space']",1090
-7,Slam Dunk,8.55,"['School', 'Shounen', 'Sports', 'Team Sports']",809
-0,Celestial Method,6.76,"['Drama', 'Fantasy', 'School']",2062
-7,Soul Eater,7.85,"['Action', 'Comedy', 'Fantasy', 'School', 'Shounen']",64
-0,,5.86,"['Action', 'Comedy', 'Fantasy', 'School', 'Shounen']",1199
-0,,7.3,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Seinen', 'Space']",6781
-6,Space Dandy,7.88,"['Adult Cast', 'Comedy', 'Sci-Fi', 'Space']",677
-0,Space Dandy 2nd Season,8.26,"['Adult Cast', 'Comedy', 'Sci-Fi', 'Space']",1444
-8,Steins;Gate,9.07,"['Drama', 'Psychological', 'Sci-Fi', 'Suspense', 'Time Travel']",14
-6,Steins;Gate: The Movie - Load Region of Déjà Vu,8.45,"['Drama', 'Sci-Fi']",374
-8,Steins;Gate: Egoistic Poriomania,8.29,"['Comedy', 'Sci-Fi', 'Time Travel']",530
-8,Sword of the Stranger,8.25,"['Action', 'Adventure', 'Historical', 'Samurai']",737
-8,Gargantia on the Verdurous Planet,7.44,"['Action', 'Adventure', 'Mecha', 'Sci-Fi']",725
-10,Summer Wars,8.01,"['Award Winning', 'Comedy', 'Sci-Fi']",442
-10,The Disappearance of Haruhi Suzumiya,8.59,"['Award Winning', 'Mystery', 'School', 'Sci-Fi', 'Supernatural']",365
-8,The Melancholy of Haruhi Suzumiya,7.82,"['Award Winning', 'Comedy', 'Mystery', 'School', 'Sci-Fi']",190
-8,The Melancholy of Haruhi Suzumiya Season 2,7.22,"['Comedy', 'Mystery', 'School', 'Sci-Fi']",430
-6,Sword Art Online,7.21,"['Action', 'Adventure', 'Fantasy', 'Love Polygon', 'Romance', 'Video Game']",6
+7,Golgo 13,7.52,"['Action', 'Adult Cast', 'Adventure', 'Drama', 'Seinen', 'Suspense']",3512
+5,,7.03,"['Drama', 'Fantasy', 'Psychological', 'Video Game']",3089
+7,,8.04,"['Drama', 'Historical', 'Mystery', 'Romance']",406
+5,,7.08,"['Historical', 'Mystery']",5419
+3,Goulart Knights: Evoked the Beginning Black,5.67,"['Action', 'Drama', 'Fantasy']",6267
+5,,6.66,"['Action', 'Mahou Shoujo', 'Mecha', 'Sci-Fi']",3127
+4,Granblue Fantasy: The Animation,6.62,"['Action', 'Adventure', 'Fantasy']",1234
+6,Granblue Fantasy: The Animation Season 2,6.73,"['Action', 'Adventure', 'Fantasy']",2732
+7,,6.54,"['Adventure', 'Fantasy']",6407
+4,Record of Grancrest War,7.22,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Military', 'Romance']",784
+4,Record of Grancrest War Reminiscence,6.57,"['Action', 'Drama', 'Fantasy', 'Gourmet', 'Military']",6144
+9,Grand Blue Dreaming,8.44,"['Adult Cast', 'Comedy', 'Gag Humor', 'Seinen']",248
