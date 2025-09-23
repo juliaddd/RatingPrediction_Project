@@ -8,7 +8,7 @@ def get_user_animelist(username: str, client_id: str):
         'X-MAL-CLIENT-ID': client_id
     }
     params = {
-        'fields': 'id, title , my_list_status, start_season{year}, mean, genres, popularity, studios',
+        'fields': 'id, title, list_status{score,status}, start_season{year}, mean, genres, popularity, media_type, rating, num_episodes, studios'
     }
 
     all_data = []
@@ -31,16 +31,27 @@ def to_dataframe(all_data):
     rows = []
     for item in all_data:
         anime = item['node']
-        score = item.get('my_list_status', {}).get('score', None)
+        score = item.get('list_status', {}).get('score')
+        status = item.get('list_status', {}).get('status')
+        # num_episodes_watched = item.get('list_status', {}).get('num_episodes_watched')
+        year = item.get('node', {}).get('start_season', {}).get('year')
         rows.append({
-            "id": anime['id'],
             "title": anime['title'],
             "mean": anime.get('mean'),
             "genres": [g['name'] for g in anime.get('genres', [])],
+            "studios": [s['name'] for s in anime.get('studios', [])],
+            "year": year,
+            "type": anime.get('media_type'),
             "popularity": anime.get('popularity'),
             "score": score,
-            "studios": [s['id'] for s in anime.get('studios', [])],
+            "status": status,
+            # "num_episodes_watched": num_episodes_watched,
+            "num_episodes": anime['num_episodes'],
         })
 
-    return pd.DataFrame(rows)
+    df = pd.DataFrame(rows)
+    df['studios'] = df['studios'].str.join(", ")
+    df['genres'] = df['genres'].str.join(", ")
+
+    return df
 
