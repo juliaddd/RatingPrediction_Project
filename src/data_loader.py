@@ -38,7 +38,8 @@ def to_dataframe(all_data):
             "mean": anime.get('mean'),
             "genres": [g['name'] for g in anime.get('genres', [])],
             "popularity": anime.get('popularity'),
-            "score": score
+            "score": score,
+            "studios": [s['id'] for s in anime.get('studios', [])],
         })
 
     return pd.DataFrame(rows)
