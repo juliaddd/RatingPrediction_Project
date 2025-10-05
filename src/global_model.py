@@ -4,6 +4,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
 import numpy as np
+from sklearn.preprocessing import MinMaxScaler
 
 def load_data(path: str):
     df = pd.read_csv(path)
@@ -35,6 +36,23 @@ def preprocess_data(df: pd.DataFrame):
     df[['Season', 'Year']] = df['Premiered'].str.split(' ', expand=True)
     df.drop(columns=['Season', 'Premiered'], inplace=True)
     df['Year'] = pd.to_numeric(df['Year'], errors='coerce').fillna(0)
+    df['Year'] = 2025 - df['Year']
+    df['Age_Cat'] = pd.cut(
+        df['Year'],
+        bins=[-1, 2, 5, 10, 20, np.inf],
+        labels=['new', 'recent', 'modern', 'old', 'classic']
+    )
+    df = pd.get_dummies(df, columns=['Age_Cat'], drop_first=True)
+    df = df.drop(columns=['Year'])
+
+    # Dividing episodes into length categories
+    df['Episode_Cat'] = pd.cut(
+        df['Episodes'],
+        bins=[0, 1, 10, 18, 26, 57, np.inf],
+        labels=['single', 'short', 'one_season', 'two_season', 'long', 'very_long']  # 1, 2-10, 11-18, 18-26,25-57,58-
+    )
+    df = pd.get_dummies(df, columns=['Episode_Cat'], drop_first=True)
+    df = df.drop(columns=['Episodes'])
 
     # One-hot encoding for Rating, Type and top Studious
     type_dummies = pd.get_dummies(df['Type'], prefix='Type')
@@ -48,7 +66,7 @@ def preprocess_data(df: pd.DataFrame):
     studio_dummies = pd.get_dummies(df['Studios'], prefix='Studio')
     df = pd.concat([df, studio_dummies], axis=1)
 
-    df.drop(columns=['Type', 'Rating', 'Studios'], inplace=True)
+    df.drop(columns=['Type', 'Rating', 'Studios', 'Rating_PG-13', 'Type_TV'], inplace=True)
 
     # Bool columns to int
     bool_cols = df.select_dtypes('bool').columns
@@ -61,6 +79,11 @@ def train_global_model(df: pd.DataFrame):
     y = df['Score']
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    scaler = MinMaxScaler()
+    numeric_cols = ['Popularity', 'Favorites', 'Completed', 'Dropped', 'Plan to Watch']
+    X_train[numeric_cols] = scaler.fit_transform(X_train[numeric_cols])
+    X_test[numeric_cols] = scaler.transform(X_test[numeric_cols])
 
     model = RandomForestRegressor(n_estimators=200, random_state=42, n_jobs=-1)
     model.fit(X_train, y_train)
