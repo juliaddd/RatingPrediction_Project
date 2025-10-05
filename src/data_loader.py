@@ -8,7 +8,7 @@ def get_user_animelist(username: str, client_id: str):
         'X-MAL-CLIENT-ID': client_id
     }
     params = {
-        'fields': 'id, title, list_status{score,status}, start_season{year}, mean, genres, popularity, media_type, rating, num_episodes, studios'
+        'fields': 'id, title, list_status{score,status}, start_season{year}, mean, genres, popularity, media_type, rating, num_episodes, studios, num_list_users,favorites'
     }
 
     all_data = []
@@ -27,6 +27,7 @@ def get_user_animelist(username: str, client_id: str):
 
     return all_data
 
+
 def to_dataframe(all_data):
     rows = []
     for item in all_data:
@@ -36,16 +37,18 @@ def to_dataframe(all_data):
         # num_episodes_watched = item.get('list_status', {}).get('num_episodes_watched')
         year = item.get('node', {}).get('start_season', {}).get('year')
         rows.append({
+            "id": anime['id'],
             "title": anime['title'],
             "mean": anime.get('mean'),
             "genres": [g['name'] for g in anime.get('genres', [])],
             "studios": [s['name'] for s in anime.get('studios', [])],
+            "rating": anime.get('rating'),
             "year": year,
             "type": anime.get('media_type'),
             "popularity": anime.get('popularity'),
             "score": score,
             "status": status,
-            # "num_episodes_watched": num_episodes_watched,
+            "members": anime['num_list_users'],
             "num_episodes": anime['num_episodes'],
         })
 
