@@ -10,7 +10,6 @@ class PreprocessorConfig:
     expected_columns: List[str]
     rare_genres: List[str]
     rare_studios: List[str]
-    # TODO: Do i need overall mean?
     overall_mean: float
 
 
@@ -66,6 +65,7 @@ class AnimePreprocessor:
 
     def fit_transform(self, df_train) -> Tuple[pd.DataFrame, pd.Series]:
         return self.fit(df_train)
+
     def _process(self, df, is_training=True):
 
         df = df.copy()
