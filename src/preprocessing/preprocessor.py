@@ -82,7 +82,15 @@ class AnimePreprocessor:
 
         numerical_cols = ['year', 'mean', 'popularity', 'members', 'num_episodes']
         for col in numerical_cols:
-            df[col] = df[col].fillna(df[col].median())
+            if col in df.columns:
+                default_values = {
+                    'year': 2020,
+                    'mean': 7.0,
+                    'popularity': 1000,
+                    'members': 10000,
+                    'num_episodes': 12
+                }
+                df[col] = df[col].fillna(default_values.get(col, df[col].median()))
 
         df = self._encode(df)
 
