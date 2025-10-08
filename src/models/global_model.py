@@ -29,9 +29,9 @@ class GlobalModel:
             random_state=42,
             n_jobs=-1
         )
+
         self.model.fit(X_train, y_train)
         self.trained = True
-
         y_pred_train = self.model.predict(X_train)
         self.metrics['train_mae'] = mean_absolute_error(y_train, y_pred_train)
         self.metrics['train_r2'] = r2_score(y_train, y_pred_train)
@@ -46,8 +46,8 @@ class GlobalModel:
         if not self.trained:
             raise ValueError("Model not trained!")
 
-        X_test = self.preprocessor.transform(df_test)
-        y_test = df_test['score']
+        df_clean = df_test.dropna(subset=['score']).copy()
+        X_test, y_test = self.preprocessor.transform(df_clean)
         y_pred = self.model.predict(X_test)
 
         metrics = {

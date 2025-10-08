@@ -10,88 +10,139 @@ class GlobalPreprocessorConfig:
     expected_columns: List[str]
     numeric_cols: List[str]
     scaler: MinMaxScaler
+    top_studios: List[str]
+    fill_values: Dict[str, float]
 
 
 class GlobalPreprocessor:
     def __init__(self):
         self.config = None
+        self._top_studios = []
+        self._fill_values = {}
 
     def fit(self, df):
+
         df_processed = self._process(df, is_training=True)
 
         y_train = df_processed['score']
         X_train = df_processed.drop(['score'], axis=1)
 
         scaler = MinMaxScaler()
-
-        numeric_cols = ['popularity', 'favorites', 'completed', 'dropped', 'plan to Watch']
+        numeric_cols = ['popularity', 'favorites', 'completed', 'dropped', 'plan to watch']
         X_train[numeric_cols] = scaler.fit_transform(X_train[numeric_cols])
 
         self.config = GlobalPreprocessorConfig(
             expected_columns=X_train.columns.tolist(),
             numeric_cols=numeric_cols,
-            scaler=scaler
+            scaler=scaler,
+            top_studios=self._top_studios,
+            fill_values=self._fill_values,
         )
 
         return X_train, y_train
 
     def transform(self, df):
+
         df_processed = self._process(df, is_training=False)
-        X = df_processed.drop(columns=['score'], errors='ignore')
+
+        y_test = df_processed['score']
+        X_test = df_processed.drop(['score'], axis=1)
 
         if self.config.numeric_cols:
-            cols_to_scale = [col for col in self.config.numeric_cols if col in X.columns]
+            cols_to_scale = [col for col in self.config.numeric_cols if col in X_test.columns]
             if cols_to_scale:
-                X[cols_to_scale] = self.config.scaler.transform(X[cols_to_scale])
+                X_test[cols_to_scale] = self.config.scaler.transform(X_test[cols_to_scale])
 
         #  Align columns
-
         for col in self.config.expected_columns:
-            if col not in X.columns:
-                X[col] = 0
-        extra_cols = set(X) - set(self.config.expected_columns)
+            if col not in X_test.columns:
+                X_test[col] = 0
+
+        extra_cols = set(X_test) - set(self.config.expected_columns) - {'score'}
         if extra_cols:
-            X = X.drop(columns=list(extra_cols), errors='ignore')
+            X_test = X_test.drop(columns=list(extra_cols), errors='ignore')
 
-        X = X[self.config.expected_columns]
+        X_test = X_test[self.config.expected_columns]
+        X_test = X_test.astype('float64')
 
-        return X
+        return X_test, y_test
 
     def _process(self, df,  is_training=True):
         df = df.copy()
-        if is_training:
-            df.drop(subset=['score'], inplace=True)
 
-        df = df.drop(labels=['ranked', 'score-10', 'score-9', 'score-8', 'score-7', 'score-6',
+        columns_to_drop =['ranked', 'score-10', 'score-9', 'score-8', 'score-7', 'score-6',
                              'score-5', 'score-4', 'score-3', 'score-2', 'score-1',
                              'name', 'english name', 'japanese name', 'aired', 'producers',
-                             'licensors', 'duration', 'members', 'watching', 'on-hold', 'mal_id'])
+                             'licensors', 'duration', 'members', 'watching', 'on-hold', 'mal_id', 'source']
 
-        numeric_cols = ['score', 'episodes']
-        for col in numeric_cols:
-            df[col] = pd.to_numeric(df[col], errors='coerce')
+        existing_cols = [col for col in columns_to_drop if col in df.columns]
+        df = df.drop(columns=existing_cols)
+
+        df['episodes'] = pd.to_numeric(df['episodes'], errors='coerce')
+        df['score'] = pd.to_numeric(df['score'], errors='coerce')
+        df = df.dropna(subset=['score'])
 
         # Handling NaN
-        df["episodes"] = df['episodes'].fillna(0)
-        df.dropna(subset=["score"], inplace=True)
+        num_cols = ['popularity', 'favorites', 'completed', 'dropped', 'plan to watch', 'episodes']
+        if is_training:
+            df = df.dropna(subset=['score'])
+        if is_training:
+            self._fill_values = {}
+            for col in num_cols:
+                if col in df.columns:
+                    if col == 'episodes':
+                        self._fill_values[col] = 12
+                    else:
+                        self._fill_values[col] = df[col].median()
+        for col in num_cols:
+            if col in df.columns:
+                fill_value = self._fill_values.get(col, 0)
+                df[col] = df[col].fillna(fill_value)
+
+        categorical_cols = ['genres', 'type', 'rating',  'studios']
+        for col in categorical_cols:
+            if col in df.columns:
+                df[col] = df[col].fillna('Unknown')
+                df[col] = df[col].replace('', 'Unknown')
+                df[col] = df[col].astype(str)
 
         # Multi-hot encoding for Genres
-        genre_dummies = df['genres'].str.get_dummies(sep=', ')
+        genre_dummies = (
+            df['genres']
+            .str.split(', ', expand=True)
+            .stack()
+            .str.get_dummies()
+            .groupby(level=0)
+            .sum()
+            .add_prefix('Genre_')
+        )
         df = pd.concat([df, genre_dummies], axis=1)
         df.drop(columns=['genres'], inplace=True)
 
         # Extracting Year from Premier
-        df[['season', 'Year']] = df['premiered'].str.split(' ', expand=True)
-        df.drop(columns=['season', 'premiered'], inplace=True)
-        df['season'] = pd.to_numeric(df['season'], errors='coerce').fillna(0)
-        df['season'] = 2025 - df['season']
-        df['age_cat'] = pd.cut(
-            df['season'],
-            bins=[-1, 2, 5, 10, 20, np.inf],
-            labels=['new', 'recent', 'modern', 'old', 'classic']
-        )
-        df = pd.get_dummies(df, columns=['age_cat'], drop_first=True)
-        df = df.drop(columns=['season'])
+        if 'premiered' in df.columns:
+            df['premiered'] = df['premiered'].fillna('Unknown 2020')
+            df['premiered'] = df['premiered'].replace('', 'Unknown 2020')
+            df['premiered'] = df['premiered'].astype(str)
+
+            split_result = df['premiered'].str.split(' ', expand=True)
+
+            if split_result.shape[1] == 1:
+                split_result[1] = '2020'
+
+            df['season'] = split_result[0]
+            df['year'] = split_result[1]
+
+            df.drop(columns=['season', 'premiered'], inplace=True)
+            df['year'] = pd.to_numeric(df['year'], errors='coerce').fillna(0)
+            df['year'] = 2025 - df['year']
+            df['age_cat'] = pd.cut(
+                df['year'],
+                bins=[-1, 2, 5, 10, 20, np.inf],
+                labels=['new', 'recent', 'modern', 'old', 'classic']
+            )
+            df = pd.get_dummies(df, columns=['age_cat'], drop_first=True)
+            df = df.drop(columns=['year'])
 
         # Dividing episodes into length categories
         df['episode_cat'] = pd.cut(
@@ -113,10 +164,10 @@ class GlobalPreprocessor:
         if 'studios' in df.columns:
             if is_training:
                 top_studios = df['studios'].value_counts().nlargest(10).index
-                self._top_studios = top_studios  # Save for transform
+                self._top_studios = top_studios
             else:
                 # During transform: use saved top studios
-                top_studios = getattr(self, '_top_studios', [])
+                top_studios = self._top_studios
 
             df['studios'] = df['studios'].apply(lambda x: x if x in top_studios else 'Other')
             studio_dummies = pd.get_dummies(df['studios'], prefix='Studio')
@@ -127,5 +178,4 @@ class GlobalPreprocessor:
         # Bool columns to int
         bool_cols = df.select_dtypes('bool').columns
         df[bool_cols] = df[bool_cols].astype(int)
-
         return df
