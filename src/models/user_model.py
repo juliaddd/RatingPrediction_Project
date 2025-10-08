@@ -22,8 +22,8 @@ class UserModel:
             print(f"  Target range: [{y_train.min():.1f}, {y_train.max():.1f}]")
 
         self.model = RandomForestRegressor(
-            n_estimators=300,
-            max_depth=15,
+            n_estimators=200,
+            max_depth=10,
             min_samples_leaf=2,
             min_samples_split=10,
             random_state=42,
@@ -47,7 +47,7 @@ class UserModel:
             raise ValueError("Model not trained!")
 
         X_test = self.preprocessor.transform(df_test)
-        y_test = df_test['Score']
+        y_test = df_test['score']
         y_pred = self.model.predict(X_test)
 
         metrics = {
