@@ -1,8 +1,4 @@
-import pandas as pd
-import requests
 import configparser
-import numpy as np
-from pathlib import Path
 from sklearn.model_selection import train_test_split
 # my imports
 from src.data.loader import to_dataframe, get_user_animelist
