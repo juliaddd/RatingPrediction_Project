@@ -2,6 +2,7 @@ import pandas as pd
 from src.models.global_model import GlobalModel
 from src.models.user_model import UserModel
 from src.pipeline.ensemble import get_weights
+import numpy as np
 
 
 class InferencePipeline:
@@ -10,7 +11,7 @@ class InferencePipeline:
         self.user_model = UserModel()
         self._models_loaded = False
 
-    def load_model(self, global_path, personal_path):
+    def load_models(self, global_path, personal_path):
         global_model = GlobalModel.load(global_path)
         personal_model = UserModel.load(personal_path)
 
@@ -58,12 +59,11 @@ class InferencePipeline:
                 'site': round(weights['ws'] * site_mean, 2)
             },
         }
-        return anime_pred
+        return float(np.clip(final_pred, 0, 10))
 
     def _prepare_for_global(self, anime_data: dict):
 
         mal_rating = anime_data.get('rating', 'pg_13')
-
         rating_mapping = {
             'g': 'G - All Ages',
             'pg': 'PG - Children',
@@ -74,12 +74,22 @@ class InferencePipeline:
         }
         rating = rating_mapping.get(mal_rating, 'PG-13 - Teens 13 or older')
 
+        mal_type = anime_data.get('type', 'tv')
+        type_mapping = {
+            'tv': 'TV',
+            'ova': 'OVA',
+            'movie': 'Movie',
+            'special': 'Special',
+            'ona': 'ONA',
+            'music': 'Music'
+        }
+        global_type = type_mapping.get(mal_type.lower(), 'TV')
         for_global = {
             'score': 0,  # Dummy value
             'episodes': anime_data.get('num_episodes', 12),
             'genres': anime_data.get('genres', 'Unknown'),
             'premiered': f"Unknown {anime_data.get('year', 2020)}",
-            'type': anime_data.get('type', 'TV'),
+            'type': global_type,
             'rating': rating,
             'studios': anime_data.get('studios', 'Unknown'),
             'popularity': anime_data.get('popularity', 1000),
@@ -93,4 +103,6 @@ class InferencePipeline:
         return df_global
 
     def _prepare_for_personal(self, anime_data: dict):
-        return pd.DataFrame([anime_data])
+        df = pd.DataFrame([anime_data])
+        df = df.drop(columns=['num_scoring_users', 'plan_to_watch', 'dropped', 'completed'])
+        return df

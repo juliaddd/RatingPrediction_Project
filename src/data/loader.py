@@ -140,9 +140,9 @@ def get_anime(anime_id: str, client_id: str):
         'members': data.get('num_list_users'),
         'score': 0,
         'status': 'plan_to_watch', # Default
-        'completed': status.get('completed', 0),
-        'dropped': status.get('dropped', 0),
-        'plan_to_watch': status.get('plan_to_watch', 0),
+        'completed': int(status.get('completed', 0)),
+        'dropped': int(status.get('dropped', 0)),
+        'plan_to_watch': int(status.get('plan_to_watch', 0)),
         'num_scoring_users': status.get('num_scoring_users', 0),
     }
 

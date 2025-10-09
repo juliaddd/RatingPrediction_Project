@@ -47,7 +47,8 @@ class GlobalModel:
             raise ValueError("Model not trained!")
 
         df_clean = df_test.dropna(subset=['score']).copy()
-        X_test, y_test = self.preprocessor.transform(df_clean)
+        y_test = df_clean['score']
+        X_test = self.preprocessor.transform(df_clean)
         y_pred = self.model.predict(X_test)
 
         metrics = {

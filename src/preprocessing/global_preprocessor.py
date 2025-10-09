@@ -45,7 +45,6 @@ class GlobalPreprocessor:
 
         df_processed = self._process(df, is_training=False)
 
-        y_test = df_processed['score']
         X_test = df_processed.drop(['score'], axis=1)
 
         if self.config.numeric_cols:
@@ -53,10 +52,11 @@ class GlobalPreprocessor:
             if cols_to_scale:
                 X_test[cols_to_scale] = self.config.scaler.transform(X_test[cols_to_scale])
 
-        #  Align columns
-        for col in self.config.expected_columns:
-            if col not in X_test.columns:
-                X_test[col] = 0
+        missing_cols = [col for col in self.config.expected_columns if col not in X_test.columns]
+
+        if missing_cols:
+            missing_df = pd.DataFrame(0, index=df_processed.index, columns=missing_cols)
+            X_test = pd.concat([df_processed, missing_df], axis=1)
 
         extra_cols = set(X_test) - set(self.config.expected_columns) - {'score'}
         if extra_cols:
@@ -65,7 +65,7 @@ class GlobalPreprocessor:
         X_test = X_test[self.config.expected_columns]
         X_test = X_test.astype('float64')
 
-        return X_test, y_test
+        return X_test
 
     def _process(self, df,  is_training=True):
         df = df.copy()
@@ -173,7 +173,7 @@ class GlobalPreprocessor:
             studio_dummies = pd.get_dummies(df['studios'], prefix='Studio')
             df = pd.concat([df, studio_dummies], axis=1)
 
-        df.drop(columns=['type', 'rating', 'studios', 'rating_PG-13', 'type_TV'], inplace=True)
+        df = df.drop(columns=['type', 'rating', 'studios', 'rating_PG-13', 'type_TV'], errors='ignore')
 
         # Bool columns to int
         bool_cols = df.select_dtypes('bool').columns

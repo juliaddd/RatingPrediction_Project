@@ -52,9 +52,11 @@ class AnimePreprocessor:
         df_processed = self._group_rare_features(df_processed, self.config.rare_genres, self.config.rare_studios)
         df_processed = self._apply_affinity(df_processed, self.config.genre_affinity)
 
-        for col in self.config.expected_columns:
-            if col not in df_processed.columns:
-                df_processed[col] = 0
+        missing_cols = [col for col in self.config.expected_columns if col not in df_processed.columns]
+
+        if missing_cols:
+            missing_df = pd.DataFrame(0, index=df_processed.index, columns=missing_cols)
+            df_processed = pd.concat([df_processed, missing_df], axis=1)
 
         extra_cols = set(df_processed.columns) - set(self.config.expected_columns) - {'score'}
         df_processed = df_processed.drop(columns=list(extra_cols), errors='ignore')
@@ -172,9 +174,9 @@ class AnimePreprocessor:
 
         df.drop(columns=['genres'], inplace=True)
         df.drop(columns=['studios'], inplace=True)
-        df.drop(columns=['type', 'Type_tv'], inplace=True)
-        df.drop(columns=['rating', 'Rating_pg_13'], inplace=True)
-        df.drop(columns=['status', 'Status_completed'], inplace=True)
+        df = df.drop(columns=['type', 'Type_tv'], errors='ignore')
+        df = df.drop(columns=['rating', 'Rating_pg_13'], errors='ignore')
+        df = df.drop(columns=['status', 'Status_completed'], errors='ignore')
 
         return df
 
