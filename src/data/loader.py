@@ -33,6 +33,9 @@ def get_user_animelist(username: str, client_id: str):
 
         print(f"Loaded {len(all_data)} anime...")
 
+    print("=" * 40)
+    print("Loading complete\n")
+
     return all_data
 
 
@@ -107,8 +110,9 @@ def get_anime(anime_id: str, client_id: str):
         'X-MAL-CLIENT-ID': client_id
     }
     params = {
-        'fields': 'id,title,mean,genres,studios,start_season,media_type,'
-                  'rating,num_episodes,popularity,num_list_users'
+        'fields': 'id,title,mean,genres,studios,start_season{year},media_type,'
+                  'rating,num_episodes,popularity,num_list_users,'
+                  'statistics{status{completed,dropped,plan_to_watch}},num_scoring_users'
     }
 
     response = requests.get(headers=headers, params=params, url=url)
@@ -119,6 +123,8 @@ def get_anime(anime_id: str, client_id: str):
     data = response.json()
     genres = [g['name'] for g in data.get('genres', [])]
     studios = [s['name'] for s in data.get('studios', [])]
+    status = data.get('statistics', {}).get('status',{})
+    # year = data.get('node', {}).get('start_season', {}).get('year')
 
     anime_data = {
         'id': data['id'],
@@ -133,7 +139,11 @@ def get_anime(anime_id: str, client_id: str):
         'popularity': data.get('popularity'),
         'members': data.get('num_list_users'),
         'score': 0,
-        'status': 'plan_to_watch'  # Default
+        'status': 'plan_to_watch', # Default
+        'completed': status.get('completed', 0),
+        'dropped': status.get('dropped', 0),
+        'plan_to_watch': status.get('plan_to_watch', 0),
+        'num_scoring_users': status.get('num_scoring_users', 0),
     }
 
     return anime_data
