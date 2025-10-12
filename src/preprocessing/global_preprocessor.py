@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 from dataclasses import dataclass
+from datetime import datetime
 from typing import Dict, List, Tuple
 from sklearn.preprocessing import MinMaxScaler
 
@@ -119,23 +120,24 @@ class GlobalPreprocessor:
         df = pd.concat([df, genre_dummies], axis=1)
         df.drop(columns=['genres'], inplace=True)
 
+        current_year = datetime.now().year
         # Extracting Year from Premier
         if 'premiered' in df.columns:
-            df['premiered'] = df['premiered'].fillna('Unknown 2020')
-            df['premiered'] = df['premiered'].replace('', 'Unknown 2020')
+            df['premiered'] = df['premiered'].fillna(f'Unknown {current_year}')
+            df['premiered'] = df['premiered'].replace('', f'Unknown {current_year}')
             df['premiered'] = df['premiered'].astype(str)
 
             split_result = df['premiered'].str.split(' ', expand=True)
 
             if split_result.shape[1] == 1:
-                split_result[1] = '2020'
+                split_result[1] = current_year
 
             df['season'] = split_result[0]
             df['year'] = split_result[1]
 
             df.drop(columns=['season', 'premiered'], inplace=True)
             df['year'] = pd.to_numeric(df['year'], errors='coerce').fillna(0)
-            df['year'] = 2025 - df['year']
+            df['year'] = current_year - df['year']
             df['age_cat'] = pd.cut(
                 df['year'],
                 bins=[-1, 2, 5, 10, 20, np.inf],

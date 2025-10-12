@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from dataclasses import dataclass
+from datetime import datetime
 from typing import Dict, List, Tuple
 
 
@@ -86,7 +87,7 @@ class AnimePreprocessor:
         for col in numerical_cols:
             if col in df.columns:
                 default_values = {
-                    'year': 2020,
+                    'year': datetime.now().year,
                     'mean': 6.0,
                     'popularity': 1000,
                     'members': 10000,
@@ -105,7 +106,6 @@ class AnimePreprocessor:
         genre_cols = [col for col in df.columns if col.startswith('Genre_')]
         df['num_genres'] = df[genre_cols].sum(axis=1)
 
-        # TODO: commented for testing
         if self.drop_mean and 'mean' in df.columns:
             df = df.drop(columns=['mean'])
 
@@ -121,7 +121,8 @@ class AnimePreprocessor:
 
         # Create anime_age if year exists
         if 'year' in df.columns:
-            df['anime_age'] = 2025 - df['year']
+            current_year = datetime.now().year
+            df['anime_age'] = current_year - df['year']
             df = df.drop(columns=['year'])
 
         if 'anime_age' in df.columns:
