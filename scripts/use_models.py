@@ -1,6 +1,7 @@
 from src.pipeline.inference_pipeline import InferencePipeline
 from src.data.loader import get_anime
 import configparser
+import json
 
 
 def main():
@@ -15,12 +16,15 @@ def main():
     )
 
     # Get anime data
-    anime = get_anime('5114', CLIENT_ID)  # FMA:B
-
+    anime = get_anime('30230', CLIENT_ID)  # FMA:B
 
     # Predict
     prediction = pipeline.predict(anime)
     print(f"Prediction: {prediction}")
+
+    explanation = pipeline.explain(anime)
+    print("\nDetailed breakdown:")
+    print(json.dumps(explanation, indent=2))
 
 
 if __name__ == '__main__':
