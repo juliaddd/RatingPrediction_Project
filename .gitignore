@@ -2,3 +2,4 @@ config.ini
 venv
 Notebooks/catboost_info
 /models/
+.idea
