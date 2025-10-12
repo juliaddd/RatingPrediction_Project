@@ -143,7 +143,7 @@ def get_anime(anime_id: str, client_id: str):
         'completed': int(status.get('completed', 0)),
         'dropped': int(status.get('dropped', 0)),
         'plan_to_watch': int(status.get('plan_to_watch', 0)),
-        'num_scoring_users': status.get('num_scoring_users', 0),
+        'num_scoring_users': int(data.get('num_scoring_users', 0)),
     }
 
     return anime_data

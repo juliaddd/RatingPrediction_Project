@@ -87,12 +87,18 @@ class AnimePreprocessor:
             if col in df.columns:
                 default_values = {
                     'year': 2020,
-                    'mean': 7.0,
+                    'mean': 6.0,
                     'popularity': 1000,
                     'members': 10000,
                     'num_episodes': 12
                 }
-                df[col] = df[col].fillna(default_values.get(col, df[col].median()))
+                if col in default_values:
+                    fill_value = default_values[col]
+                else:
+                    median_val = df[col].median()
+                    fill_value = median_val if not pd.isna(median_val) else 0
+
+                df[col] = df[col].fillna(fill_value)
 
         df = self._encode(df)
 

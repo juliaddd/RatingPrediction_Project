@@ -20,11 +20,14 @@ class InferencePipeline:
         self._models_loaded = True
 
     def predict(self, anime_data: dict):
-
         if not self._models_loaded:
             raise ValueError("Models not loaded! Call load_models() first")
 
-        site_mean = anime_data.get('mean', 7.0)
+        site_mean = anime_data.get('mean', 5.0)
+        if site_mean is None or site_mean == 0:
+            print("Warning: This anime has no ratings on MAL yet")
+            site_mean = 5.0
+
         num_scoring = anime_data.get('num_scoring_users', 0)
 
         global_df = self._prepare_for_global(anime_data)
@@ -40,9 +43,36 @@ class InferencePipeline:
                 weights['ws'] * site_mean
         )
 
-        anime_pred = {
+        return float(np.clip(final_pred, 0, 10))
+
+    def explain(self, anime_data: dict):
+        if not self._models_loaded:
+            raise ValueError("Models not loaded!")
+
+        site_mean = anime_data.get('mean', 5.0)
+        if site_mean is None or site_mean == 0:
+            print("Warning: This anime has no ratings on MAL yet")
+            site_mean = 5.0
+
+        num_scoring = anime_data.get('num_scoring_users', 0)
+
+        global_df = self._prepare_for_global(anime_data)
+        personal_df = self._prepare_for_personal(anime_data)
+
+        global_pred = self.global_model.predict(global_df)[0]
+        personal_pred = self.user_model.predict(personal_df)[0]
+
+        weights = get_weights(num_scoring)
+        final_pred = (
+                weights['wg'] * global_pred +
+                weights['wp'] * personal_pred +
+                weights['ws'] * site_mean
+        )
+
+        return {
             'anime_title': anime_data.get('title', 'Unknown'),
             'final_prediction': round(float(final_pred), 2),
+            'num_scoring': num_scoring,
             'components': {
                 'global_prediction': round(global_pred, 2),
                 'personal_prediction': round(personal_pred, 2),
@@ -59,7 +89,6 @@ class InferencePipeline:
                 'site': round(weights['ws'] * site_mean, 2)
             },
         }
-        return float(np.clip(final_pred, 0, 10))
 
     def _prepare_for_global(self, anime_data: dict):
 
