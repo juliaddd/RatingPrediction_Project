@@ -83,7 +83,7 @@ def search_anime(q: str,  client_id: str):
     params = {
         'q': q,
         'limit': 5,
-        'fields': 'id,title'
+        'fields': 'id,title,main_picture{medium, large}'
     }
 
     response = requests.get(url=url, headers=headers, params=params)
@@ -91,13 +91,20 @@ def search_anime(q: str,  client_id: str):
         raise ValueError(f"Error with API request: {response.status_code} - {response.text}")
 
     data = response.json()
+    print("\n=== DEBUG: API Response ===")
+    print(f"Query: {q}")
+    print(f"Results count: {len(data.get('data', []))}")
 
     rows = []
     for item in data['data']:
+
         anime = item.get('node', {})
+        picture = anime.get('main_picture', {})
+        img_url = picture.get('medium') or picture.get('large') or None
         rows.append({
             "id": anime.get('id'),
-            "title": anime.get('title')
+            "title": anime.get('title'),
+            "img": img_url
         })
 
     return rows
