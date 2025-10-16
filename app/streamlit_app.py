@@ -1,11 +1,10 @@
 import streamlit as st
 import sys
-sys.path.append('.')
+import configparser
 from pathlib import Path
-from tabulate import tabulate
 from src.data.loader import search_anime, get_anime
 from src.pipeline.inference_pipeline import InferencePipeline
-import configparser
+sys.path.append('.')
 
 
 st.set_page_config(
@@ -20,7 +19,7 @@ st.set_page_config(
                  "Statistics for your animelist coming soon!"
     }
 )
-if st.sidebar.button("🔄 Reset All"):
+if st.sidebar.button("Reset All"):
     st.session_state.clear()
     st.rerun()
 

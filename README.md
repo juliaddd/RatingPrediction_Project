@@ -7,8 +7,13 @@ A machine learning system that predicts personalized anime ratings by combining 
 - **Personalized Predictions**: Trained on your MyAnimeList history
 - **Ensemble Model**: Combines three prediction sources with dynamic weights
 - **Interactive CLI**: Search and predict ratings for any anime
+- **Streamlit GUI**: Search and predict ratings for any anime using pleasing interface
 - **Smart Weighting**: Automatically adjusts based on anime popularity
 - **Detailed Explanations**: See how predictions are calculated
+
+## Future features
+- **Statistics dashboard**: Different charts and plots displaying user watching habits based on user's anime list
+- **Anime Recommendations**: Get recommendations for similar anime based on your preferences
 
 ### Ensemble Logic
 
@@ -75,7 +80,20 @@ Output: `Creates models/user_model_YourUsername.joblib`
 **Options:**
 - `--verbose`: Show detailed training metrics
 
-### 3. Predict Ratings
+### 3. Predict Ratings using GUI
+
+Run following command:
+```bash
+streamlit run app/streamlit_app.py
+```
+You can now view Streamlit app in your browser.
+
+**Requires:**
+- `streamlit package installed`
+- `models/global_model.joblib (from step 1)`
+- `models/user_model_YourUsername.joblib (from step 2)`
+
+### 4. Predict Ratings using CLI
 
 Interactive prediction interface:
 ```bash
@@ -108,6 +126,8 @@ RatingPrediction_Project/
 │   ├── train_global_model.py      # Train global model
 │   ├── train_personal_model.py    # Train personal model
 │   └── predict.py                 # Interactive CLI
+├── app/
+│   └── streamlit_app.py           # Interactive GUI
 ├── models/                        # Saved models
 ├── data/                          # Training data
 ├── config.ini                     # API credentials
